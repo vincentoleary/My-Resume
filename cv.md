@@ -18,26 +18,31 @@ BS **Environmental Science** - Minors in *Mathematics, Geoscience*
 
 *Dec 2013 - present* **Curatorial Assistant** (Ted Daeschler, PhD.)  
 Vertebrate Paleontology, Academy of Natural Sciences Philadelphia, PA
+
 * Develop and standardize a FileMaker Pro database of 20,000+ specimens to publish online  
 * Describe morphology of fossils using scanning electron microscopy and 3D imaging techniques
 
 *Jun - Aug 2017* **NOAA Hollings Scholar Intern** (Chris Amante)  
 National Centers for Environmental Information (NCEI) Boulder, CO.
+
 * Created a global model of elevation with public bathymetric and topographic datasets, available publicly through NOAA as GLOBATO
 * Wrote and maintained scripts for the development of this new model
 
 *Mar - Sep 2016* **Biodiversity Informatics Research CO-OP** (Steve Dilliplane)  
 Center for Systematic Biology and Evolution, Academy of Natural Sciences Philadelphia, PA
+
 * Migrated and organized 8860 records in FileMaker Pro using recognized metadata standards  
 * Developed automated work-flow using MySQL to import and standardize several distinct Symbiota, Mi- crosoft Excel, and FileMaker Pro databases into a single Specify repository
 
 *Mar - Sep 2015* **Geographic Information System (GIS) Research CO-OP** (Jerry Mead, PhD.)  
 Patrick Center for Environmental Research, Academy of Natural Sciences Philadelphia, PA
-* Modeled Jamaican landsnail biodiversity for 600* sampled locations using ArcGIS, QGIS, and R  
+
+* Modeled Jamaican landsnail biodiversity for 600+ sampled locations using ArcGIS, QGIS, and R  
 * Surveyed stream topography via bar-code and laser level techniques and sampled invertebrate biodiversity
 
 *Jun - Aug 2014* **STAR (Students Tackling Advanced Research) Scholar** (Daniel Duran, PhD.)  
 Drexel University Office of Undergraduate Research Philadelphia, PA
+
 * Forecasted potential range expansion of invasive crayfish using MaxEnt and online environmental data
 
 ## Activities
@@ -47,9 +52,11 @@ Drexel University Office of Undergraduate Research Philadelphia, PA
 *2015* **Founding member** and event coordinator of two new student professional societies at Drexel University  
 
 *2013 - 2017* **Vice President** Phi Kappa Psi Fraternity Philadelphia, PA
+
 * Presided over 70 members and implemented new messaging system to improve notifications and archiving*  
 
 *2013 - 2015* **President** Drexel Smart Initiatives Program - Drexel Smart House Project Philadelphia, PA  
+
 * Secured funding for original student research and partnered with Philadelphia Water Department and PECO*  
 
 ## Teaching and Outreach
@@ -85,24 +92,29 @@ Drexel University Office of Undergraduate Research Philadelphia, PA
 ## Awards and Grants
 
 *2017*
+
 * Truman Scholarship  
 * Udall Scholarship  
 * Society for Science and the Public Advocate Grant ($3,000)
 * Drexel University Arcadia Grant ($3000)
 
 *2016*
+
 * National Oceanic and Atmospheric Administration (NOAA) Hollings Scholarship  
 * Drexel University ExCITe Center Seed Fund Research Grant ($5,000)  
 * Drexel University Steinbright Corporate Partners Scholarship  
 * American Leadership Academy NBD Scholarship
 
 *2015*
+
 * Drexel University Office of Undergraduate Research SuperNova Fellow
 
 *2013*
+
 * Minor planet 28592 named ”O’Leary” for being a finalist of the Intel Science Talent Search
 
 *2012*
+
 * Drexel University Tuition Scholarship at the Intel International Science and Engineering Fair  
 
 ## Skills
