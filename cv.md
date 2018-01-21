@@ -32,7 +32,7 @@ National Centers for Environmental Information (NCEI) Boulder, CO.
 Center for Systematic Biology and Evolution, Academy of Natural Sciences Philadelphia, PA
 
 * Migrated and organized 8860 records in FileMaker Pro using recognized metadata standards  
-* Developed automated work-flow using MySQL to import and standardize several distinct Symbiota, Mi- crosoft Excel, and FileMaker Pro databases into a single Specify repository
+* Developed automated work-flow using MySQL to import and standardize several distinct Symbiota, Microsoft Excel, and FileMaker Pro databases into a single Specify repository
 
 *Mar - Sep 2015* **Geographic Information System (GIS) Research CO-OP** (Jerry Mead, PhD.)  
 Patrick Center for Environmental Research, Academy of Natural Sciences Philadelphia, PA
