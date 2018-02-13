@@ -60,7 +60,7 @@ Drexel University Office of Undergraduate Research (OUR) Philadelphia, PA
 8 - Shirey, V., **V. O’Leary**, S. Dilliplane (2017), More Than a Map: Adventures in Biodiversity Informatics Visualization. Presented at 2017 Annual Meeting, SPNHC, Denver, CO, 18-24, Jun.  
 7 - **O’Leary, V** (2017), Digitization of the ANSP Vertebrate Paleontology collections. Presented at Week of Undergraduate Excellence, Drexel University, Philadelphia, PA, 1-5 May.   
 6 - **O’Leary, V** (2017), Building Communities around a Shared River. Presented at Week of Undergraduate Excellence, Drexel University, Philadelphia, PA, 1-5 May.  
-5 - **O’Leary, V** (2017), From Online to On the River: Opportunities for Data Storytelling. Presented at River Research Seminar, University of Pennsylvania, Philadelphia, PA, 28 Apr.
+5 - **O’Leary, V** (2017), From Online to On the River: Opportunities for Data Storytelling. Presented at River Research Seminar, University of Pennsylvania, Philadelphia, PA, 28 Apr.  
 4 - **O’Leary, V**., M. Sei, G. Rosenberg and J. Mead (2016), Modeling species distributions of landsnail biodiversity. Presented at National Conference on Undergraduate Research, University of North Carolina, Asheville, NC, 7-9, Apr.  
 3 - **O’Leary, V**., M. Sei, G. Rosenberg and J. Mead (2016), Describing multivariate relationships and spatial distributions of snail biodiversity in Jamaica. Presented at BEES Research Day, Drexel University, Philadelphia, PA, 10 Mar.  
 2 - **O’Leary, V**., T. Daeschler (2016), Building an urban ecology curriculum along the Schuylkill River walking trail. Presented at Student Conference on Global Challenges, Drexel University, Philadelphia, PA, 25 Feb.  
