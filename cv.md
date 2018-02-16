@@ -2,6 +2,7 @@ Vincent O'Leary
 ===============
 [vincentoleary@drexel.edu](mailto:vincentoleary@drexel.edu)  
 [vincentoleary.com](http://www.vincentoleary.com)  
+[linkedin.com/in/vjoleary](https://www.linkedin.com/in/vjoleary/)
 
 ## Education
 *2013 - 2018* **Drexel University**, Pennoni Honors College, Philadelphia, PA GPA - 3.56  
