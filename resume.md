@@ -2,18 +2,9 @@ Vincent O'Leary
 ===============
 [vincentoleary@pm.me](mailto:vincentoleary@pm.me)  
 [vincentoleary.com](http://www.vincentoleary.com)  
-[linkedin.com/in/vjoleary](https://www.linkedin.com/in/vjoleary/)  
+[linkedin.com/in/vincentoleary](https://www.linkedin.com/in/vincentoleary/)
 
-## Education
-*2013 - 2018* **Drexel University**, Pennoni Honors College, Philadelphia, PA GPA - 3.5  
-**BS Environmental Science**, minor in Geoscience  
-*Relevant Courses*: Biogeography, Biodiversity, Conservation Biology, Phylogenetics Analysis, Physical Geology, Earth System Processes, GIS & Environmental Modeling, Scientific Data Analysis, Statistics and Probability, Community Mobilization and Advocacy, American Political Thought, Tribal Water Management, Systems Approach to Global Challenges  
-
-*2017* **University of Arizona**, Native Nation Building introductory course, Tucson, Arizona
-
-*2015* **Reykjavik University**, GREEN Program focused on climate and energy policy, Reykjavik, Iceland
-
-## Academic and Professional History
+## Professional History
 *Dec 2013 - Dec 2017* **Curatorial Assistant** (Ted Daeschler, PhD.)  
 Vertebrate Paleontology, Academy of Natural Sciences (ANSP) Philadelphia, PA  
 * Designed and implemented a FileMaker Pro database of 20,000+ specimens and 3D images for ANSP
@@ -36,13 +27,25 @@ Drexel University Office of Undergraduate Research (OUR) Philadelphia, PA
 * Forecasted potential range expansion of invasive crayfish using MaxEnt and online environmental data
 
 ## Teaching and Outreach
-*2018* **English Second Language Teacher** - assisted the Aquinas Center with their "English for Speakers of Other Languages" courses   
-*2017 - 2018* **Society for Science and the Public Advocate** - volunteered with the Drexel Lindy Center and School District of Philadelphia as a teaching assistant in 9th and 10th grade science classrooms  
-*2016 - 2017* **Drexel Community Scholar** - coordinated after-school STEM activities for 3rd and 4th grade students in the School District of Philadelphia      
-*2013 - 2014* I Co-developed a new community-based-learning course at Drexel University focused on climate change, urban ecology, and scientific communication along the Schuylkill River.  
+*2018* **English Second Language Teacher**  
+* Assisted Aquinas Center with their "English for Speakers of Other Languages" courses
+
+*2017 - 2018* **Society for Science and the Public Advocate**  
+* Volunteered with Lindy Center for Civic Engagement and School District of Philadelphia as a teaching assistant in 9th and 10th grade science classrooms   
+
+*2016 - 2017* **Drexel Community Scholar**  
+* Coordinated after-school STEM activities for 3rd and 4th grade students in the School District of Philadelphia  
+
+*2014 - 2015* I co-developed a new community-based-learning course at Drexel University focused on climate change, urban ecology, and scientific communication along the Schuylkill River
+
+## Education
+*2013 - 2018* **Drexel University**, Pennoni Honors College, Philadelphia, PA GPA - 3.5  
+**B.S. Environmental Science**, minor in Geoscience  
+*Relevant Courses*: Biogeography, Biodiversity, Conservation Biology, Phylogenetic Analysis, Physical Geology, Earth System Processes, GIS & Environmental Modeling, Scientific Data Analysis, Statistics and Probability, Community Mobilization and Advocacy, American Political Thought, Systems Approach to Global Challenges
 
 ## Skills
 *Computer* - ArcGIS, GDAL/OGR, QGIS, Python, R, OpenRefine, SQL, FileMaker Pro, Git/GitHub, Microsoft Office Suite (Word, Excel, PowerPoint, Access), Bash, Markdown (this resume written in Markdown), HTML, LaTeX  
+
 *Field and Lab* - Managing lab notebooks, Titration, Filtration, RTK/PPK and laser level surveying, Open channel hydraulic surveys, Backpack electrofishing, Radio-telemetry, Scanning electron (SEM) and petrographic microscopy
 
 ## Awards and Grants
