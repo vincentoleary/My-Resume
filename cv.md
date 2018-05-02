@@ -4,16 +4,7 @@ Vincent O'Leary
 [vincentoleary.com](http://www.vincentoleary.com)  
 [linkedin.com/in/vincentoleary](https://www.linkedin.com/in/vincentoleary/)
 
-## Education
-*2013 - 2018* **Drexel University**, Pennoni Honors College, Philadelphia, PA GPA - 3.5  
-**BS Environmental Science**, minor in Geoscience  
-*Relevant Courses*: Biogeography, Biodiversity, Conservation Biology, Phylogenetic Analysis, Physical Geology, Earth System Processes, GIS & Environmental Modeling, Scientific Data Analysis, Statistics and Probability, Community Mobilization and Advocacy, American Political Thought, Systems Approach to Global Challenges
-
-*2017* **University of Arizona**, Native Nation Building introductory course, Tucson, Arizona
-
-*2015* **Reykjavik University**, GREEN Program focused on climate and energy policy, Reykjavik, Iceland
-
-## Academic and Professional History
+## Professional History
 *Dec 2013 - Dec 2017* **Curatorial Assistant** (Ted Daeschler, PhD.)  
 Vertebrate Paleontology, Academy of Natural Sciences (ANSP) Philadelphia, PA  
 * Designed and implemented a FileMaker Pro database of 20,000+ specimens and 3D images for ANSP
@@ -38,7 +29,7 @@ Drexel University Office of Undergraduate Research (OUR) Philadelphia, PA
 ## Teaching and Outreach
 *2018* **English Second Language Teacher**  
 * Assisted Aquinas Center with their "English for Speakers of Other Languages" courses  
- 
+
 *2017 - 2018* **Society for Science and the Public Advocate**  
 * Volunteered with Lindy Center for Civic Engagement and School District of Philadelphia as a teaching assistant in 9th and 10th grade science classrooms
 
@@ -48,6 +39,16 @@ Drexel University Office of Undergraduate Research (OUR) Philadelphia, PA
 *2014 - 2015* I co-developed a new community-based-learning course at Drexel University focused on climate change, urban ecology, and scientific communication along the Schuylkill River  
 
 *2008 - 2013* I directed educational activities such as children's summer camps and special events at the Oglebay Good Zoo
+
+## Education
+*2013 - 2018* **Drexel University**, Pennoni Honors College, Philadelphia, PA GPA - 3.5  
+**BS Environmental Science**, minor in Geoscience  
+*Relevant Courses*: Biogeography, Biodiversity, Conservation Biology, Phylogenetic Analysis, Physical Geology, Earth System Processes, GIS & Environmental Modeling, Scientific Data Analysis, Statistics and Probability, Community Mobilization and Advocacy, American Political Thought, Systems Approach to Global Challenges
+
+*Other education*  
+*2018* **Young Involved Philadelphia (YIP)**, Board Prep Program, Philadelphia, PA  
+*2017* **Native Nations Institute at University of Arizona**, Rebuilding Native Nations, Tuscon, AZ  
+*2015* **The GREEN Program at Reykjavik University**, Renewable Energy & Sustainability, Reykjavik, Iceland
 
 ## Skills
 *Computer* - ArcGIS, GDAL/OGR, QGIS, Python, R, OpenRefine, SQL, FileMaker Pro, Git/GitHub, Microsoft Office Suite (Word, Excel, PowerPoint, Access), Bash, Markdown (this resume written in Markdown), HTML, LaTeX
