@@ -6,7 +6,7 @@ Vincent O'Leary
 
 ## Professional History
 *Jun - Jul 2018* **Truman Scholarship Summer Institute Intern** (Reid Sherman, PhD.)  
-U.S. Global Change Research Program (USGCRP), White House Office of Science and Technology Policy, Washington, DC   
+U.S. Global Change Research Program, White House Office of Science and Technology Policy, Washington, DC   
 * Identify and rank data links in GCIS’s web of provenance based on source material completeness  
 * Support development of the Fourth National Climate Assessment (NCA4)
 
