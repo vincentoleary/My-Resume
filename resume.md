@@ -5,26 +5,27 @@ Vincent O'Leary
 [linkedin.com/in/vincentoleary](https://www.linkedin.com/in/vincentoleary/)
 
 ## Professional History
+*Jun - Jul 2018* **Truman Scholarship Summer Institute Intern** (Reid Sherman, PhD.)  
+U.S. Global Change Research Program (USGCRP), White House Office of Science and Technology Policy, Washington, DC  
+* Identify and rank data links in GCIS’s web of provenance based on source material completeness  
+* Support development of the Fourth National Climate Assessment (NCA4)
+
 *Dec 2013 - Dec 2017* **Curatorial Assistant** (Ted Daeschler, PhD.)  
-Vertebrate Paleontology, Academy of Natural Sciences (ANSP) Philadelphia, PA  
+Vertebrate Paleontology, Academy of Natural Sciences (ANSP), Philadelphia, PA  
 * Designed and implemented a FileMaker Pro database of 20,000+ specimens and 3D images for ANSP
 
-*Jun - Aug 2017* **NOAA Hollings Scholar Intern** (Chris Amante)  
-National Centers for Environmental Information (NCEI) Boulder, CO.  
+*Jun - Aug 2017* **NOAA Hollings Scholar Intern** (Chris Amante, PhD.)  
+National Centers for Environmental Information (NCEI), NOAA, Boulder, CO.  
 * Developed a global model of elevation with public bathymetric and topographic datasets using ArcGIS and Bash, available as an update to NOAA's previous ETOPO1 model
 
 *Mar - Sep 2016* **Biodiversity Informatics Research CO-OP** (Steve Dilliplane)  
-Center for Systematic Biology and Evolution, Academy of Natural Sciences (ANSP) Philadelphia, PA  
+Center for Systematic Biology and Evolution, Academy of Natural Sciences (ANSP), Philadelphia, PA  
 * Migrated 8800+ records into FileMaker Pro using recognized metadata standards  
 * Documented an automated work-flow using MySQL to import and standardize several distinct Symbiota, Microsoft Excel, and FileMaker Pro databases into a single Specify repository
 
 *Mar - Sep 2015* **Geographic Information System (GIS) Research CO-OP** (Jerry Mead, PhD.)  
-Patrick Center for Environmental Research, Academy of Natural Sciences (ANSP) Philadelphia, PA  
+Patrick Center for Environmental Research, Academy of Natural Sciences (ANSP), Philadelphia, PA  
 * Visualized biodiversity for 600+ sampled locations in Jamaica using ArcGIS, QGIS, and R
-
-*Jun - Aug 2014* **STAR (Students Tackling Advanced Research) Scholar** (Daniel Duran, PhD.)  
-Drexel University Office of Undergraduate Research (OUR) Philadelphia, PA  
-* Forecasted potential range expansion of invasive crayfish using MaxEnt and online environmental data
 
 ## Teaching and Outreach
 *2018* **English Second Language Teacher**  
