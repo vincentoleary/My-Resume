@@ -1,18 +1,23 @@
-Vincent O'Leary
-===============
-[vincentoleary@pm.me](mailto:vincentoleary@pm.me)  
-[vincentoleary.com](http://www.vincentoleary.com)  
-[linkedin.com/in/vincentoleary](https://www.linkedin.com/in/vincentoleary/)
+---
+header-includes: |
+    \usepackage{lastpage}
+    \usepackage{fontawesome}
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \fancyhead[LE,RO]{}
+    \fancyhead[RE,LO]{\Large\bf{Vincent O'Leary}}
+    \fancyfoot[CE,CO]{Page \thepage\ of \pageref{LastPage}}
+---
+\faEnvelopeSquare\ [vincentoleary@pm.me](mailto:vincentoleary@pm.me)  
+\faGlobe\ [vincentoleary.com](http://www.vincentoleary.com)  
+\faLinkedinSquare\ [linkedin.com/in/vincentoleary](https://www.linkedin.com/in/vincentoleary/)
 
 ## Professional History
 *Jun - Jul 2018* **Truman Scholarship Summer Institute Intern** (Reid Sherman, PhD.)  
 U.S. Global Change Research Program, White House Office of Science and Technology Policy, Washington, DC   
 * Identify and rank data links in GCIS’s web of provenance based on source material completeness  
 * Support development of the Fourth National Climate Assessment (NCA4)
-
-*Dec 2013 - Dec 2017* **Curatorial Assistant** (Ted Daeschler, PhD.)  
-Vertebrate Paleontology, Academy of Natural Sciences (ANSP), Philadelphia, PA  
-* Designed and implemented a FileMaker Pro database of 20,000+ specimens and 3D images for ANSP
 
 *Jun - Aug 2017* **NOAA Hollings Scholar Intern** (Chris Amante, PhD.)  
 National Centers for Environmental Information (NCEI), NOAA, Boulder, CO.  
@@ -27,23 +32,34 @@ Center for Systematic Biology and Evolution, Academy of Natural Sciences (ANSP),
 Patrick Center for Environmental Research, Academy of Natural Sciences (ANSP), Philadelphia, PA  
 * Visualized biodiversity for 600+ sampled locations in Jamaica using ArcGIS, QGIS, and R
 
-*Jun - Aug 2014* **STAR (Students Tackling Advanced Research) Scholar** (Daniel Duran, PhD.)  
-Drexel University Office of Undergraduate Research (OUR), Philadelphia, PA  
+*Jun - Aug 2014* **Students Tackling Advanced Research (STAR) Scholar** (Daniel Duran, PhD.)  
+Office of Undergraduate Research, Drexel University, Philadelphia, PA  
 * Forecasted potential range expansion of invasive crayfish using MaxEnt and online environmental data
+
+*Dec 2013 - Dec 2017* **Curatorial Assistant** (Ted Daeschler, PhD.)  
+Vertebrate Paleontology Collection, Academy of Natural Sciences (ANSP), Philadelphia, PA  
+* Designed and implemented a FileMaker Pro database of 20,000+ specimens and 3D images for ANSP
 
 ## Teaching and Outreach
 *2018* **English Second Language Teacher**  
-* Assisted Aquinas Center with their "English for Speakers of Other Languages" courses  
+St. Thomas Aquinas Catholic Community Center, Philadelphia, PA  
+* Assisted with "English for Speakers of Other Languages" courses for 15+ adults 2 hours per week
 
-*2017 - 2018* **Society for Science and the Public Advocate**  
-* Volunteered with Lindy Center for Civic Engagement and School District of Philadelphia as a teaching assistant in 9th and 10th grade science classrooms
+*2017 - 2018* **High School STEM Mentor**  
+Gaining Early Awareness and Readiness for Undergraduate Programs (GEAR UP), Philadelphia, PA  
+* Mentored 50+ students in 9th and 10th grade science classrooms for 8 hours per week
 
 *2016 - 2017* **Drexel Community Scholar**  
-* Coordinated after-school STEM activities for 3rd and 4th grade students in the School District of Philadelphia  
+Lindy Center for Civic Engagement, Drexel University, Philadelphia, PA  
+* Coordinated after-school STEM activities for 30+ 3rd and 4th grade students for 5 hours per week  
 
-*2014 - 2015* I co-developed a new community-based-learning course at Drexel University focused on climate change, urban ecology, and scientific communication along the Schuylkill River  
+*2014 - 2015* **Guest Instructor**  
+College of Arts and Science, Drexel University, Philadelphia, PA  
+* Co-developed a new community hybrid course for Drexel University, which combined lectures in the classroom and in the community. 18 students presented ideas to engage Philadelphia residents on topics of climate change, urban ecology, and public health along the Schuylkill River Walking Trail.
 
-*2008 - 2013* I directed educational activities such as children's summer camps and special events at the Oglebay Good Zoo
+*2008 - 2013* **Educator**  
+Education Department, Oglebay Good Zoo, Wheeling, WV  
+* Directed educational activities including summer camps for 4 to 6 year old children for 40 hours per week  
 
 ## Education
 *2013 - 2018* **Drexel University**, Pennoni Honors College, Philadelphia, PA GPA - 3.5  
