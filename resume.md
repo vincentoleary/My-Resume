@@ -13,6 +13,9 @@ header-includes: |
 \faGlobe\ [vincentoleary.com](http://www.vincentoleary.com)  
 \faLinkedinSquare\ [linkedin.com/in/vincentoleary](https://www.linkedin.com/in/vincentoleary/)
 
+## Personal Statement
+Seeking a position that will allow me to maximize my 10+ years of experience in science communication in order to connect environmental policy and research with the communities and people they affect.
+
 ## Professional History
 *Jun - Jul 2018* **Truman Scholarship Summer Institute Intern** (Reid Sherman, PhD.)  
 U.S. Global Change Research Program, White House Office of Science and Technology Policy, Washington, DC   
@@ -21,49 +24,47 @@ U.S. Global Change Research Program, White House Office of Science and Technolog
 
 *Jun - Aug 2017* **NOAA Hollings Scholar Intern** (Chris Amante, PhD.)  
 National Centers for Environmental Information (NCEI), NOAA, Boulder, CO.  
-* Developed a global model of elevation with public bathymetric and topographic datasets using ArcGIS and Bash, available as an update to NOAA's previous ETOPO1 model
+* Developed a global model of elevation with public bathymetric and topographic datasets using ArcGIS and Bash
 
 *Mar - Sep 2016* **Biodiversity Informatics Research CO-OP** (Steve Dilliplane)  
 Center for Systematic Biology and Evolution, Academy of Natural Sciences (ANSP), Philadelphia, PA  
-* Migrated 8800+ records into FileMaker Pro using recognized metadata standards  
-* Documented an automated work-flow using MySQL to import and standardize several distinct Symbiota, Microsoft Excel, and FileMaker Pro databases into a single Specify repository
+* Created an automated work-flow using MySQL to import and standardize several distinct Symbiota, Microsoft Excel, and FileMaker Pro databases into Specify repository, allowed for data to be searched museum wide
 
 *Mar - Sep 2015* **Geographic Information System (GIS) Research CO-OP** (Jerry Mead, PhD.)  
 Patrick Center for Environmental Research, Academy of Natural Sciences (ANSP), Philadelphia, PA  
-* Visualized biodiversity for 600+ sampled locations in Jamaica using ArcGIS, QGIS, and R
+* Visualized snail biodiversity for 600+ sampled locations in Jamaica using ArcGIS, QGIS, and R
 
 *Dec 2013 - Dec 2017* **Curatorial Assistant** (Ted Daeschler, PhD.)  
 Vertebrate Paleontology Collection, Academy of Natural Sciences (ANSP), Philadelphia, PA  
-* Designed and implemented a FileMaker Pro database of 20,000+ specimens and 3D images for ANSP
+* Designed and launched a new FileMaker Pro database of 20,000+ specimens and 3D images
 
 ## Teaching and Outreach
-*2018* **English Second Language Teacher**  
-St. Thomas Aquinas Catholic Community Center, Philadelphia, PA  
-* Assisted with "English for Speakers of Other Languages" courses for 15+ adults 2 hours per week
-
 *2017 - 2018* **High School STEM Mentor**  
 Gaining Early Awareness and Readiness for Undergraduate Programs (GEAR UP), Philadelphia, PA  
 * Mentored 50+ students in 9th and 10th grade science classrooms for 8 hours per week
 
 *2016 - 2017* **Drexel Community Scholar**  
 Lindy Center for Civic Engagement, Drexel University, Philadelphia, PA  
-* Coordinated after-school STEM activities for 30+ 3rd and 4th grade students for 5 hours per week  
+* Coordinated after-school STEM activities for 30+ students in 3rd and 4th grade for 5 hours per week  
 
 *2014 - 2015* **Guest Instructor**  
 College of Arts and Science, Drexel University, Philadelphia, PA  
-* Co-developed a new community hybrid course for Drexel University, mixing classroom and community lectures  
+* Created a new community hybrid course for 18 students at Drexel University
+
+*2008 - 2013* **Educator**  
+Education Department, Oglebay Good Zoo, Wheeling, WV  
+* Directed educational activities including summer camps for 4 to 6 year old children for 40 hours per week  
 
 ## Education
 *2013 - 2018* **Drexel University**, Pennoni Honors College, Philadelphia, PA GPA - 3.5  
 **B.S. Environmental Science**, minor in Geoscience  
-*Relevant Courses*: Biogeography, Biodiversity, Conservation Biology, Phylogenetic Analysis, Physical Geology, Earth System Processes, GIS & Environmental Modeling, Scientific Data Analysis, Statistics and Probability, Community Mobilization and Advocacy, American Political Thought, Systems Approach to Global Challenges
 
-## Skills
+## Relevant Skills
 *Computer* - ArcGIS, GDAL/OGR, QGIS, Python, R, OpenRefine, SQL, FileMaker Pro, Git/GitHub, Microsoft Office Suite (Word, Excel, PowerPoint, Access), Bash, Markdown (this resume written in Markdown), HTML, LaTeX  
 
 *Field and Lab* - Managing lab notebooks, Titration, Filtration, RTK/PPK and laser level surveying, Open channel hydraulic surveys, Backpack electrofishing, Radio-telemetry, Scanning electron (SEM) and petrographic microscopy
 
-## Awards and Grants
+## Recent Awards and Grants
 *2018*  - James C. Gaither Junior Fellows program university nominee  
 *2017*	- Harry S. Truman Scholarship  
 *2017*	- Morris K. and Stewart L. Udall Scholarship  
@@ -80,8 +81,6 @@ College of Arts and Science, Drexel University, Philadelphia, PA
 8 - Shirey, V., **V. O’Leary**, S. Dilliplane (2017), More Than a Map: Adventures in Biodiversity Informatics Visualization. Presented at 2017 Annual Meeting, SPNHC, Denver, CO, 18-24, Jun.  
 7 - **O’Leary, V** (2017), Digitization of the ANSP Vertebrate Paleontology collections. Presented at Week of Undergraduate Excellence, Drexel University, Philadelphia, PA, 1-5 May.   
 6 - **O’Leary, V** (2017), Building Communities around a Shared River. Presented at Week of Undergraduate Excellence, Drexel University, Philadelphia, PA, 1-5 May.  
-5 - **O’Leary, V** (2017), From Online to On the River: Opportunities for Data Storytelling. Presented at River Research Seminar, University of Pennsylvania, Philadelphia, PA, 28 Apr.  
-4 - **O’Leary, V**., M. Sei, G. Rosenberg and J. Mead (2016), Modeling species distributions of landsnail biodiversity. Presented at National Conference on Undergraduate Research, University of North Carolina, Asheville, NC, 7-9, Apr.    
 
 ## Recent Poster Presentations
 8 - **O'Leary, V**., C. Amante (2017), GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. Abstract OS31C-1412 presented at 2017 Fall Meeting, AGU, New Orleans, LA, 11-15 Dec.  
@@ -89,3 +88,4 @@ College of Arts and Science, Drexel University, Philadelphia, PA
 6 - Shirey, V., **V. O’Leary**, and S. Dilliplane (2017), Big Data Opportunities in Ecological and Biodiversity Informatics: A Functional Trait Perspective. Presented at Digital Data in Biodiversity Research Conference, iDigBio, Ann Arbor, MI, 5-6 Jun.
 5 - **O’Leary, V**., M. Sei, G. Rosenberg and J. Mead (2016), Describing multivariate relationships and spatial distributions of snail biodiversity in Jamaica. Presented at Stanford Research Conference, Stanford University, Stanford, CA, 15-17 Apr.  
 4 - Raphelson, M., **V. O’Leary**, A. Adams, K. Luckenbill and T. Daeschler (2016), Student projects using digital imaging techniques in Vertebrate Paleontology to capture new details of Late Devonian-age fossils. Presented at BEES Research Day, Drexel University, Philadelphia, PA, 10 Mar.  
+3 - **O’Leary, V**., M. Sei, G. Rosenberg and J. Mead (2016), Describing multivariate relationships and spatial distributions of snail biodiversity in Jamaica. Presented at National Collegiate Research Conference, Harvard University, Cambridge, MA, 21-23 Jan.  

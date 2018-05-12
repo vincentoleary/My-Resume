@@ -13,6 +13,9 @@ header-includes: |
 \faGlobe\ [vincentoleary.com](http://www.vincentoleary.com)  
 \faLinkedinSquare\ [linkedin.com/in/vincentoleary](https://www.linkedin.com/in/vincentoleary/)
 
+## Personal Statement
+Seeking a position that will allow me to maximize my 10+ years of experience in science communication in order to connect environmental policy and research with the communities and people they affect.
+
 ## Professional History
 *Jun - Jul 2018* **Truman Scholarship Summer Institute Intern** (Reid Sherman, PhD.)  
 U.S. Global Change Research Program, White House Office of Science and Technology Policy, Washington, DC   
@@ -25,25 +28,27 @@ National Centers for Environmental Information (NCEI), NOAA, Boulder, CO.
 
 *Mar - Sep 2016* **Biodiversity Informatics Research CO-OP** (Steve Dilliplane)  
 Center for Systematic Biology and Evolution, Academy of Natural Sciences (ANSP), Philadelphia, PA  
-* Migrated 8800+ records into FileMaker Pro using recognized metadata standards  
-* Documented an automated work-flow using MySQL to import and standardize several distinct Symbiota, Microsoft Excel, and FileMaker Pro databases into a single Specify repository
+* Migrated 8800+ records into FileMaker Pro from handwritten archives, increased discoverability of data online  
+* Created an automated work-flow using MySQL to import and standardize several distinct Symbiota, Microsoft Excel, and FileMaker Pro databases into a single Specify repository, allowed for data to be searched alongside all departments for the first time
 
 *Mar - Sep 2015* **Geographic Information System (GIS) Research CO-OP** (Jerry Mead, PhD.)  
 Patrick Center for Environmental Research, Academy of Natural Sciences (ANSP), Philadelphia, PA  
-* Visualized biodiversity for 600+ sampled locations in Jamaica using ArcGIS, QGIS, and R
+* Visualized snail biodiversity for 600+ sampled locations in Jamaica using ArcGIS, QGIS, and R
+* Developed a model for biodiversity of snails based on known locations, climate, and geologic factors
 
 *Jun - Aug 2014* **Students Tackling Advanced Research (STAR) Scholar** (Daniel Duran, PhD.)  
 Office of Undergraduate Research, Drexel University, Philadelphia, PA  
-* Forecasted potential range expansion of invasive crayfish using MaxEnt and online environmental data
+* Forecasted potential range expansion of invasive crayfish using MaxEnt and publicly available environmental data
 
 *Dec 2013 - Dec 2017* **Curatorial Assistant** (Ted Daeschler, PhD.)  
 Vertebrate Paleontology Collection, Academy of Natural Sciences (ANSP), Philadelphia, PA  
-* Designed and implemented a FileMaker Pro database of 20,000+ specimens and 3D images for ANSP
+* Designed and launched a new FileMaker Pro database of 20,000+ specimens and 3D images for the paleontology collection
+* Improved documentation for the new database and workflows performed by student volunteers
 
 ## Teaching and Outreach
 *2018* **English Second Language Teacher**  
 St. Thomas Aquinas Catholic Community Center, Philadelphia, PA  
-* Assisted with "English for Speakers of Other Languages" courses for 15+ adults 2 hours per week
+* Volunteered to teach "English for Speakers of Other Languages" courses for 15+ adults 2 hours per week
 
 *2017 - 2018* **High School STEM Mentor**  
 Gaining Early Awareness and Readiness for Undergraduate Programs (GEAR UP), Philadelphia, PA  
@@ -51,11 +56,11 @@ Gaining Early Awareness and Readiness for Undergraduate Programs (GEAR UP), Phil
 
 *2016 - 2017* **Drexel Community Scholar**  
 Lindy Center for Civic Engagement, Drexel University, Philadelphia, PA  
-* Coordinated after-school STEM activities for 30+ 3rd and 4th grade students for 5 hours per week  
+* Coordinated after-school STEM activities for 30+ students in 3rd and 4th grade for 5 hours per week  
 
 *2014 - 2015* **Guest Instructor**  
 College of Arts and Science, Drexel University, Philadelphia, PA  
-* Co-developed a new community hybrid course for Drexel University, which combined lectures in the classroom and in the community. 18 students presented ideas to engage Philadelphia residents on topics of climate change, urban ecology, and public health along the Schuylkill River Walking Trail.
+* Created a new community hybrid course for Drexel University, which combined lectures in the classroom and in the community. 18 students presented ideas to engage Philadelphia residents on topics of climate change, urban ecology, and public health along the Schuylkill River walking trail.
 
 *2008 - 2013* **Educator**  
 Education Department, Oglebay Good Zoo, Wheeling, WV  
