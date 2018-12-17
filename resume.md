@@ -66,6 +66,10 @@ Education Department, Oglebay Good Zoo, Wheeling, WV
 *2013 - 2018* **Drexel University**, Pennoni Honors College, Philadelphia, PA GPA - 3.5  
 **B.S. Environmental Science**, minor in Geoscience  
 
+*Continuing education and certificates*  
+* Nonprofit Board Prep Program, Young Involved Philadelphia (YIP), Philadelphia, PA (2018)  
+* Rebuilding Native Nations, Native Nations Institute at University of Arizona, Tuscon, AZ (2017)
+
 ## Relevant Skills
 *Education and Communication* - Public speaking, Verbal and written communication, Event planning, Curriculum development, Childhood education in formal and informal environments, Classroom management, Technical presenations, Building stakeholder engagement
 
@@ -84,8 +88,8 @@ Education Department, Oglebay Good Zoo, Wheeling, WV
 *2016*	- Drexel University Steinbright Corporate Partners Grant ($4,000)  
 
 ## Recent Publications
-3 - Amante, C., **V. O'Leary** (TBD), GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. *Report in preparation for publication by NOAA.*
-2 - Seltmann, K., S. Lafia, D. Paul, S. James, D. Bloom, N. Rios, S. Ellis, U. Farrell, J. Utrup, M. Yost, E. Davis, R. Emery, G. Motz, J. Kimmig, V. Shirey, E. Sandall, D. Park, C. Tyrrell, R. Thackurdeen, M. Collins, **V. O'Leary**, H. Prestridge, C. Evelyn, B. Nyberg (2018), Georeferencing for Research Use (GRU): An integrated geospatial training paradigm for biocollections researchers and data providers. Research Ideas and Outcomes 4: e32449. doi: 10.3897/rio.4.e32449 
+3 - Amante, C., **V. O'Leary** (TBD), GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. *Report in preparation for publication by NOAA.*  
+2 - Seltmann, K., S. Lafia, D. Paul, S. James, D. Bloom, N. Rios, S. Ellis, U. Farrell, J. Utrup, M. Yost, E. Davis, R. Emery, G. Motz, J. Kimmig, V. Shirey, E. Sandall, D. Park, C. Tyrrell, R. Thackurdeen, M. Collins, **V. O'Leary**, H. Prestridge, C. Evelyn, B. Nyberg (2018), Georeferencing for Research Use (GRU): An integrated geospatial training paradigm for biocollections researchers and data providers. Research Ideas and Outcomes 4: e32449. doi: 10.3897/rio.4.e32449  
 1 - (*Staff contributor*) USGCRP, 2018: Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment, Volume II [Reidmiller, D.R., C.W. Avery, D.R. Easterling, K.E. Kunkel, K.L.M. Lewis, T.K. Maycock, and B.C. Stewart (eds.)]. U.S. Global Change Research Program, Washington, DC, USA, 1515 pp. doi: 10.7930/NCA4.2018
 
 ## Recent Oral Presentations
