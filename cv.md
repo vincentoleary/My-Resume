@@ -18,54 +18,66 @@ Seeking a position at the expiration of my term with Americorps that will allow 
 
 ## Professional History
 *Sep 2018 - Sep 2019* **Americorps VISTA** (Jon Doctorick)  
-Center for STEM Education and Career Development, Carnegie Science Center, Pittsburgh, PA   
+Center for STEM Education and Career Development, Carnegie Science Center, Pittsburgh, PA
+
 * Developing a guide for mentor programming at the Carnegie Science Center Fab Lab that documents best practices, workflows, and examples that other institutions will be able to use as guidelines in creating similar mentoring programs
 
 *Jun - Jul 2018* **Truman Scholarship Summer Institute Intern** (Reid Sherman, PhD.)  
-U.S. Global Change Research Program, White House Office of Science and Technology Policy, Washington, DC   
+U.S. Global Change Research Program, White House Office of Science and Technology Policy, Washington, DC
+
 * Recognized for exemplary efforts towards the release of Volume II of the Fourth National Climate Assessment, a nonpartisan government effort to identify and explain the risks of climate change
 
 *Jun - Aug 2017* **NOAA Hollings Scholar Intern** (Chris Amante, PhD.)  
-National Centers for Environmental Information (NCEI), NOAA, Boulder, CO.  
+National Centers for Environmental Information (NCEI), NOAA, Boulder, CO.
+
 * Developed a global model of elevation with public bathymetric and topographic datasets using ArcGIS, to be made available as the first update to NOAA's standard ETOPO1 model in 10 years
 
 *Mar - Sep 2016* **Biodiversity Informatics Research CO-OP** (Steve Dilliplane)  
-Center for Systematic Biology and Evolution, Academy of Natural Sciences (ANSP), Philadelphia, PA  
+Center for Systematic Biology and Evolution, Academy of Natural Sciences (ANSP), Philadelphia, PA
+
 * Created an automated work-flow using MySQL to import and standardize several distinct Symbiota, Microsoft Excel, and FileMaker Pro databases into a single Specify repository, allowed for data to be searched alongside all departments for the first time
 
 *Mar - Sep 2015* **Geographic Information System (GIS) Research CO-OP** (Jerry Mead, PhD.)  
-Patrick Center for Environmental Research, Academy of Natural Sciences (ANSP), Philadelphia, PA  
+Patrick Center for Environmental Research, Academy of Natural Sciences (ANSP), Philadelphia, PA
+
 * Visualized snail biodiversity for 600+ sampled locations in Jamaica using ArcGIS, QGIS, and R
 * Developed a model for biodiversity of snails based on known locations, climate, and geologic factors
 
 *Jun - Aug 2014* **Students Tackling Advanced Research (STAR) Scholar** (Daniel Duran, PhD.)  
-Office of Undergraduate Research, Drexel University, Philadelphia, PA  
+Office of Undergraduate Research, Drexel University, Philadelphia, PA
+
 * Forecasted potential range expansion of invasive crayfish using MaxEnt and publicly available environmental data
 
 *Dec 2013 - Dec 2017* **Curatorial Assistant** (Ted Daeschler, PhD.)  
-Vertebrate Paleontology Collection, Academy of Natural Sciences (ANSP), Philadelphia, PA  
-* Migrated 8800+ handwritten records into a FileMaker Pro database and created a workflow to normalize data to be shared online for the first time  
+Vertebrate Paleontology Collection, Academy of Natural Sciences (ANSP), Philadelphia, PA
+
+* Migrated 8800+ handwritten records into a FileMaker Pro database and created a workflow to normalize data to be shared online for the first time
 * Improved documentation for the new database and workflows performed by student volunteers
 
 ## Teaching and Outreach
 *2018* **English for Speakers of Other Languages Instructor**
-St. Thomas Aquinas Catholic Community Center, Philadelphia, PA  
+St. Thomas Aquinas Catholic Community Center, Philadelphia, PA
+
 * Led small group discussion with 15+ adults for 2 hours per week during English Language instruction
 
 *2017 - 2018* **High School STEM Mentor**
-Gaining Early Awareness and Readiness for Undergraduate Programs (GEAR UP), Philadelphia, PA  
+Gaining Early Awareness and Readiness for Undergraduate Programs (GEAR UP), Philadelphia, PA
+
 * Mentored 50+ students in 9th and 10th grade science classrooms for 8 hours per week
 
 *2016 - 2017* **Drexel Community Scholar for After-school Learning**  
-Lindy Center for Civic Engagement, Drexel University, Philadelphia, PA  
+Lindy Center for Civic Engagement, Drexel University, Philadelphia, PA
+
 * Coordinated after-school STEM activities for 30+ students in 3rd and 4th grade for 5 hours per week  
 
 *2014 - 2015* **Contributing Instructor for Community Based Learning Curriculum**  
-College of Arts and Science, Drexel University, Philadelphia, PA  
+College of Arts and Science, Drexel University, Philadelphia, PA
+
 * Created a new community hybrid course for 18 students at Drexel University
 
 *2008 - 2013* **Educator**  
-Education Department, Oglebay Good Zoo, Wheeling, WV  
+Education Department, Oglebay Good Zoo, Wheeling, WV
+
 * Directed educational activities including summer camps for 4 to 6 year old children for 40 hours per week  
 
 ## Education
@@ -73,8 +85,9 @@ Education Department, Oglebay Good Zoo, Wheeling, WV
 **BS Environmental Science**, minor in Geoscience  
 *Relevant Courses*: Biogeography, Biodiversity, Conservation Biology, Phylogenetic Analysis, Physical Geology, Earth System Processes, GIS & Environmental Modeling, Scientific Data Analysis, Statistics and Probability, Community Mobilization and Advocacy, American Political Thought, Systems Approach to Global Challenges  
 
-*Continuing education and certificates*  
-* Nonprofit Board Prep Program, Young Involved Philadelphia (YIP), Philadelphia, PA (2018)  
+*Continuing education and certificates*
+
+* Nonprofit Board Prep Program, Young Involved Philadelphia (YIP), Philadelphia, PA (2018)
 * Rebuilding Native Nations, Native Nations Institute at University of Arizona, Tuscon, AZ (2017)
 
 ## Skills
