@@ -1,26 +1,31 @@
 ---
 header-includes: |
-    \usepackage{lastpage}
-    \usepackage{fontawesome}
+    \renewcommand*\familydefault{\sfdefault} 
+    \usepackage[scaled]{helvet}
+    \renewcommand\familydefault{\sfdefault} 
+    \usepackage[T1]{fontenc} 
+
     \usepackage{fancyhdr}
     \pagestyle{fancy}
     \fancyhf{}
-    \fancyhead[LE,RO]{}
-    \fancyhead[RE,LO]{\Large\bf{Vincent O'Leary}}
-    \fancyfoot[CE,CO]{Page \thepage\ of \pageref{LastPage}}
+    \chead{\Huge\textbf{Vincent OLeary}}
+    \renewcommand{\headrulewidth}{0pt}
 ---
-\faEnvelopeSquare\ [vincent@f-m.fm](mailto:vincent@f-m.fm)  
-\faGlobe\ [vincentoleary.com](http://www.vincentoleary.com)  
-\faLinkedinSquare\ [linkedin.com/in/vjoleary](https://www.linkedin.com/in/vjoleary/)
+\begin{center}
+v@vincentoleary.com | +1 (111) 111-1111 | Wheeling, WV 26003 USA
+\end{center}
 
 ## Personal Statement
 Seeking a position at the expiration of my term with Americorps that will allow me to maximize my 10+ years of experience in science communication  and mentoring in order to connect environmental policy and research with the communities and people they affect.
 
-## Professional History
-*Sep 2018 - Sep 2019* **Americorps VISTA** (Jon Doctorick)  
-Center for STEM Education and Career Development, Carnegie Science Center, Pittsburgh, PA
-
-* Developing a guide for mentor programming at the Carnegie Science Center Fab Lab that documents best practices, workflows, and examples that other institutions will be able to use as guidelines in creating similar mentoring programs
+## Experience
+---
+__Center for STEM Education and Career Development, Carnegie Science Center__ - Pittsburgh, PA  
+__Americorps VISTA for Development__ - Sep 2018 - Sep 2019  
+First Americorps VISTA for the makerspace facility at Carnegie Science Center. Oversaw flagship youth mentoring program and doubled enrollment to 40 participants year over year.
+- Authored guidebook to replicate first-of-its-kind mentoring program at other Fab Lab and digital makerspaces
+- Coordinated feedback and expertise from institutional community partners about program and guidebook
+- Conducted interviews with participants and staff to understand impact of the mentoring program
 
 *Jun - Jul 2018* **Truman Scholarship Summer Institute Intern** (Reid Sherman, PhD.)  
 U.S. Global Change Research Program, White House Office of Science and Technology Policy, Washington, DC
