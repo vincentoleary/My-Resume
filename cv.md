@@ -115,8 +115,8 @@ Education Department, Oglebay Good Zoo, Wheeling, WV
 
 ## Publications
 3 - Amante, C., **V. O'Leary** (TBD), GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. *Report in preparation for publication by NOAA.*  
-2 - Seltmann, K., S. Lafia, D. Paul, S. James, D. Bloom, N. Rios, S. Ellis, U. Farrell, J. Utrup, M. Yost, E. Davis, R. Emery, G. Motz, J. Kimmig, V. Shirey, E. Sandall, D. Park, C. Tyrrell, R. Thackurdeen, M. Collins, **V. O'Leary**, H. Prestridge, C. Evelyn, B. Nyberg (2018), Georeferencing for Research Use (GRU): An integrated geospatial training paradigm for biocollections researchers and data providers. Research Ideas and Outcomes 4: e32449. doi: 10.3897/rio.4.e32449  
-1 - (*Staff contributor*) USGCRP, 2018: Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment, Volume II [Reidmiller, D.R., C.W. Avery, D.R. Easterling, K.E. Kunkel, K.L.M. Lewis, T.K. Maycock, and B.C. Stewart (eds.)]. U.S. Global Change Research Program, Washington, DC, USA, 1515 pp. doi: 10.7930/NCA4.2018
+2 - Seltmann, K., S. Lafia, D. Paul, ... __V. O'Leary,__ _et al._ (2018), Georeferencing for Research Use (GRU): An integrated geospatial training paradigm for biocollections researchers and data providers. Research Ideas and Outcomes 4: e32449.  
+1 - USGCRP (2018), Impacts, Risks, and Adaptation in the United States: Fourth National Climate Assessment, Volume II [Reidmiller, D.R., C.W. Avery, _et al._ (eds.)]. U.S. Global Change Research Program, Washington, DC, USA, 1515 pp.
 
 ## Oral Presentations
 11 - **O'Leary, V**. (2018), How to create a new map of the world. Presented at Week of Undergraduate Excellence, Drexel University, Philadelphia, PA, 14-18 May.  
