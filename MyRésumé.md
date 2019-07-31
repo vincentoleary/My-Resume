@@ -11,9 +11,9 @@ header-includes: |
     \renewcommand{\headrulewidth}{0pt}
 --- 
 \begin{center}
-v@vincentoleary.com | +1 (111) 111-1111 | Wheeling, WV 26003 USA
+v@vincentoleary.com | +1 (XXX) XXX-XXXX | Wheeling, WV 26003 USA
 \end{center}
-\vspace{-24pt}
+\vspace{-18pt}
 
 ## Experience  
 \vspace{-18pt}
@@ -42,7 +42,7 @@ Recognized for exemplary efforts to the publication of Volume II of the 4th Nati
 + Recommended portfolio of publicly available and representative images for each of 30+ chapters in Volume II
 
 __GEAR UP: Gaining Early Awareness and Readiness for Undergraduate Programs__ \hfill Philadelphia, PA  
-__Drexel Community Scholar for After-School Learning__  \hfill June 2016 - June 2018  
+__Drexel Community Scholar for After-School Learning__ \hfill June 2016 - June 2018  
 Instructed 50+ students in 9th and 10th grade science classrooms; directed Drexel student volunteers to arrange after-school STEM activities for 30+ students in 3rd and 4th grade.
 
 __Academy of Natural Sciences of Drexel University__ \hfill Philadelphia, PA  
@@ -87,5 +87,5 @@ Drexel University ExCITe Center Seed Fund Research Grant _($5,000)_ \hfill 2016
 
 completed __Nonprofit Board Prep__ program by Young Involved Philadelphia (YIP) \hfill Philadelphia, PA - 2018  
   
-__Computer Skills__ - Proficient at Microsoft Office Suite (Word, Excel, PowerPoint), Outlook email, FileMaker Pro, Markdown; Intermediate at HTML/CSS, SQL, Git/GitHub, LaTeX, ArcGIS/QGIS; Learning R, Python, Swift,   
+__Computer Skills__ - Proficient at Microsoft Office Suite (Word, Excel, PowerPoint), Outlook email, FileMaker Pro, Markdown; Intermediate at HTML/CSS, SQL, Git/GitHub, LaTeX, ArcGIS/QGIS; Learning R, Python, Swift   
 __Interpersonal Skills__ - Public speaking, Technical presentations, Program/processes documentation, Meeting planning, Formal and informal youth education, Curriculum development, Event planning, Community outreach
