@@ -13,7 +13,7 @@ header-includes: |
 \begin{center}
 v@vincentoleary.com | +1 (XXX) XXX-XXXX | Wheeling, WV 26003 USA
 \end{center}
-\vspace{-18pt}
+\vspace{-16pt}
 
 ## Experience  
 \vspace{-18pt}
@@ -22,7 +22,7 @@ v@vincentoleary.com | +1 (XXX) XXX-XXXX | Wheeling, WV 26003 USA
 
 __Honeycomb Salon__ \hfill Wheeling, WV  
 __Co-Founder/Manager__ \hfill Jan 2019 - Present  
-Purchased a 23 year old hair and nail salon and reopened as Honeycomb Salon with my wife and co-founder. 
+Purchased a 23-year-old hair and nail salon and reopened as Honeycomb Salon with my wife and co-founder. 
 
 + Transitioned from established brand to new business without losing customers; grew revenue 20% in first 6 months
 + Managed inventory of 200+ products for sale; maintain relationships with 900+ customers
@@ -31,7 +31,7 @@ __Carnegie Science Center: Center for STEM Education and Career Development__ \h
 __Americorps VISTA for Development__ \hfill Sep 2018 - Present  
 First Americorps VISTA hire at Fab Lab maker-space facility within Carnegie Science Center. Supervised flagship youth mentoring program and doubled enrollment to 40 participants year over year.
 
-+ Authored guidebook on one year timeline to introduce first-of-its-kind mentoring program to global Fab Lab network
++ Authored guidebook on one-year timeline to introduce first-of-its-kind mentoring program to global Fab Lab network
 + Evaluated success of mentoring program through interviews and informal conversations with participants
 
 __White House Office of Science and Technology Policy: U.S. Global Change Research Program__ \hfill Washington, DC  
@@ -52,9 +52,9 @@ Spearheaded modernization of digital vertebrate paleontology database, doubling 
 
 __NOAA: National Centers for Environmental Information__ \hfill Boulder, CO  
 __NOAA Hollings Scholarship Intern__ (Chris Amante, PhD.) \hfill Jun - Aug 2017  
-Completed a standardized global model of elevation at improved 30 arc-second resolution using ArcGIS
+Completed a standardized global model of elevation at improved 30 arc-second resolution using ArcGIS.
 
-\vspace{-12pt}
+\vspace{-16pt}
 
 ## Education
 \vspace{-18pt}
@@ -64,7 +64,7 @@ Completed a standardized global model of elevation at improved 30 arc-second res
 __Drexel University: Pennoni Honors College__ \hfill Philadelphia, PA  
 __B.S. Environmental Science__ - _Cum Laude_ \hfill  2013 - 2018
 
-\vspace{-12pt}
+\vspace{-16pt}
 
 ## Awards
 \vspace{-18pt}
@@ -78,14 +78,13 @@ Society for Science and the Public Advocacy Grant _($3,000)_ \hfill 2017
 Drexel University ExCITe Center Seed Fund Grant _($5,000)_ \hfill 2016  
 NOAA Ernest F. Hollings Scholarship _($26,000+)_ \hfill 2016
 
-\vspace{-12pt}
+\vspace{-16pt}
 
 ## Additional
 \vspace{-18pt}
 \par\noindent\rule{\textwidth}{1pt}
 \vspace{-18pt}
 
-Taught English to 15+ adult learners in immigrant community of 3 main non-English languages \hfill Philadelphia, PA - 2018  
 Completed __"Nonprofit Board Prep"__ program by Young Involved Philadelphia (YIP) \hfill Philadelphia, PA - 2018  
   
 __Computer Skills__ - Proficient at Microsoft Office Suite (Word, Excel, PowerPoint), Outlook email, FileMaker Pro, Markdown; Intermediate at HTML/CSS, SQL, Git/GitHub, LaTeX, ArcGIS/QGIS; Learning R, Python, Swift   
