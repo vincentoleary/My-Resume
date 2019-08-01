@@ -1,16 +1,6 @@
+This is Vincent OLeary's general use CV/résumé. It is written in markdown but the source files contain LaTeX commands as well to improve appearance in PDF format. The PDF format is hosted here and on my website vincentoleary.com. The phone number used is obviously false.
+
 # Vincent OLeary's CV
-
-    This is Vincent OLeary's general use CV/résumé. It is written in markdown but the source files contain LaTeX commands as well to improve appearance in PDF format. The PDF format is hosted here and on my website vincentoleary.com. The phone number used is obviously false.
-
-    The source files are converted to PDF format using the program 'pandoc'. I use the following arguments to control the margin size in the final PDF document.
-
-```pandoc
-pandoc -V geometry:textwidth=504pt -V geometry:textheight=660pt -V geometry:top=72pt MyCV.md -s -o OUTPUT_CV.pdf
-```
-
-```pandoc
-pandoc -V geometry:textwidth=504pt -V geometry:textheight=710pt -V geometry:top=60pt MyRésumé.md -s -o OUTPUT_Résumé.pdf
-```
 
 ## Education
 ---
@@ -148,3 +138,13 @@ __Interpersonal Skills__ - Public speaking, Technical presentations, Program/pro
 __Computer Skills__ - Proficient at Microsoft Office Suite (Word, Excel, PowerPoint), Outlook email, FileMaker Pro, Markdown (this resume's source); Intermediate at HTML/CSS, SQL, Git/GitHub, LaTeX, ArcGIS/QGIS; Learning R, Python, Swift   
 
 __Field and Lab Skills__ - Managing lab notebooks, Titration, Filtration, RTK/PPK and laser level surveying, Open channel hydraulic surveys, Backpack electrofishing, Radio-telemetry, Scanning electron (SEM) and petrographic microscopy, Statistical data analysis
+
+_The source files are converted to PDF format using the program 'pandoc'. I use the following arguments to control the margin size in the final PDF document._
+
+```pandoc
+pandoc -V geometry:textwidth=504pt -V geometry:textheight=660pt -V geometry:top=72pt MyCV.md -s -o OUTPUT_CV.pdf
+```
+
+```pandoc
+pandoc -V geometry:textwidth=504pt -V geometry:textheight=710pt -V geometry:top=60pt MyRésumé.md -s -o OUTPUT_Résumé.pdf
+```
