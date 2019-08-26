@@ -32,7 +32,7 @@ __Americorps VISTA for Development__ \hfill Sep 2018 - Present
 First Americorps VISTA hire at Fab Lab maker-space facility within Carnegie Science Center. Supervised flagship youth mentoring program and doubled enrollment to 40 participants year over year.
 
 + Authored guidebook on one-year timeline to introduce first-of-its-kind mentoring program to global Fab Lab network
-+ Evaluated success of mentoring program through interviews and informal conversations with participants
++ Recognized as "Most Innovative Maker-Centered Learning Program of the Year" by US2020 national competition  
 
 __White House Office of Science and Technology Policy: U.S. Global Change Research Program__ \hfill Washington, DC  
 __Truman Scholarship Summer Institute Intern__ (Chris Avery , PhD.) \hfill Jun - Jul 2018   

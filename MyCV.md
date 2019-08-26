@@ -57,6 +57,7 @@ First Americorps VISTA hire at Fab Lab makerspace facility within Carnegie Scien
 
 + Authored guidebook on one-year timeline to introduce first-of-its-kind mentoring program to global Fab Lab network
 + Evaluated success of mentoring program through interviews and informal conversations with participants
++ Recognized nationally as "Most Innovative Maker-Centered Learning Program of the Year" by US2020 and Citizen Schools
 
 __White House Office of Science and Technology Policy: U.S. Global Change Research Program__ \hfill Washington, DC  
 __Truman Scholarship Summer Institute Intern__ (Chris Avery , PhD.) \hfill Jun - Jul 2018   
@@ -98,7 +99,7 @@ __GEAR UP: Gaining Early Awareness and Readiness for Undergraduate Programs__ \h
 __Drexel Community Scholar for After-School Learning__ \hfill June 2016 - June 2018  
 
 + Instructed 50+ students in 9th and 10th grade science classrooms
-+ Directed and trained a team of Drexel student volunteers to arrange after-school STEM activities for 30+ students in 3rd and 4th grade  
++ Directed and trained a team of Drexel student volunteers to arrange after-school STEM activities for 30+ students in 3rd and 4th grade
 + Invited to be a guest lecturer in 5th grade science classroom  
 
 __Drexel University: College of Arts and Science__ \hfill Philadelphia, PA  
