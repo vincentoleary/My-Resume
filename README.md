@@ -1,6 +1,4 @@
-This is Vincent OLeary's general use CV/résumé. It is written in markdown but the source files contain LaTeX commands as well to improve appearance in PDF format. The PDF format is hosted here and on my website vincentoleary.com. The phone number used is obviously false.
-
-# Vincent OLeary's CV
+This is Vincent OLeary's general use CV/résumé. It is written in markdown but the source files contain LaTeX commands to control appearance PDF format. The PDF format is hosted here and on my website vincentoleary.com. My contact information has been redacted.
 
 ## Education
 ---
@@ -17,43 +15,44 @@ _Continuing education and certificates_
 ## Work Experience
 ---
 
-__Honeycomb Salon__ Wheeling, WV  
-__Co-Founder__ Jan 2019 - Present  
-Purchased a 23-year old-hair and nail salon and reopened as Honeycomb Salon with my wife and co-founder. 
+__Honeycomb Salon__  Wheeling, WV  
+__Co-Founder/Manager__  Jan 2019 - Present  
+Purchased a 23-year-old hair and nail salon and reopened as Honeycomb Salon with my wife and co-founder. 
 
 + Transitioned from established brand to new business without losing customers; grew revenue 20% in first 6 months
-+ Managed inventory of 200+ products for sale; maintain relationships with 900+ customers
++ Managed inventory of 200+ products for sale; maintained relationships with 900+ customers
 
-__Carnegie Science Center: Center for STEM Education and Career Development__ Pittsburgh, PA  
-__Americorps VISTA for Development__ Sep 2018 - Present  
-First Americorps VISTA hire at Fab Lab makerspace facility within Carnegie Science Center. Supervised flagship youth mentoring program and doubled enrollment to 40 participants year over year.
+__Carnegie Science Center: Center for STEM Education and Career Development__  Pittsburgh, PA  
+__AmeriCorps VISTA for Development__  Sep 2018 - Present  
+First AmeriCorps VISTA hire at Fab Lab maker-space facility within Carnegie Science Center. Supervised flagship youth mentoring program and doubled enrollment to 40 participants year over year.
 
 + Authored guidebook on one-year timeline to introduce first-of-its-kind mentoring program to global Fab Lab network
-+ Evaluated success of mentoring program through interviews and informal conversations with participants
++ Assisted with planning, implementing, and evaluating regional outreach to potential mentor/mentee participants
++ Recognized as "Most Innovative Maker-Centered Learning Program of the Year" by Makers + Mentors Network 
 
-__White House Office of Science and Technology Policy: U.S. Global Change Research Program__ Washington, DC  
-__Truman Scholarship Summer Institute Intern__ (Chris Avery , PhD.) Jun - Jul 2018   
+__White House Office of Science and Technology Policy: U.S. Global Change Research Program__  Washington, DC  
+__Truman Scholarship Summer Institute Intern__ (Chris Avery , PhD.)  Jun - Jul 2018   
 Recognized for exemplary contributions towards the publication of Volume II of the 4th National Climate Assessment, an inter-agency effort coordinated by the White House to identify and explain the risks of climate change to policymakers.  
 
-+ Liaised with team of lead authors of each of 30+ chapters to draft imagery requirements for Volume II
++ Negotiated with lead authors on image requirements and addressed questions, issues from stakeholders
 + Recommended portfolio of publicly available images by agreed to deadline for each of 30+ chapters in Volume II
 
-__Academy of Natural Sciences of Drexel University__ Philadelphia, PA  
-__+ Curatorial Assistant for Vertebrate Paleontology__ (Ted Daeschler, PhD.) Dec 2013 - Dec 2017  
-__+ Biodiversity Informatics Research CO-OP__ (Steve Dilliplane) Mar - Sep 2016  
-__+ Geographic Information System (GIS) Research CO-OP__ (Jerry Mead, PhD.) Mar - Sep 2015  
+__Academy of Natural Sciences of Drexel University__  Philadelphia, PA  
+__+ Curatorial Assistant for Vertebrate Paleontology__ (Ted Daeschler, PhD.)  Dec 2013 - Dec 2017  
+__+ Biodiversity Informatics Research CO-OP__ (Steve Dilliplane)  Mar - Sep 2016  
+__+ Geographic Information System (GIS) Research CO-OP__ (Jerry Mead, PhD.)  Mar - Sep 2015  
 
 + Spearheaded modernization of digital vertebrate paleontology database, doubling size by cataloging 9000+ new records
 + Invented automated processes to combine databases from 6 departments that each use different Symbiota, Microsoft Excel, and FileMaker Pro databases
 + Visualized snail biodiversity for 600+ sampled locations in Jamaica using ArcGIS, QGIS, and R
 
-__NOAA: National Centers for Environmental Information__ Boulder, CO  
-__NOAA Hollings Scholarship Intern__ (Chris Amante, PhD.) Jun - Aug 2017  
+__NOAA: National Centers for Environmental Information__  Boulder, CO  
+__NOAA Hollings Scholarship Intern__ (Chris Amante, PhD.)  Jun - Aug 2017  
 
-+ Completed a standardized global model of elevation at improved 30 arc-second resolution using ArcGIS
++ Analyzed project requirements and created standardized global model of elevation at improved resolution using ArcGIS
 
-__Drexel University: Office of Undergraduate Research__ Philadelphia, PA  
-__Students Tackling Advanced Research (STAR) Scholar__ (Daniel Duran, PhD.) Jun - Aug 2014  
+__Drexel University: Office of Undergraduate Research__  Philadelphia, PA  
+__Students Tackling Advanced Research (STAR) Scholar__ (Daniel Duran, PhD.)  Jun - Aug 2014  
 
 + Forecasted range expansion due to climate change of invasive crayfish using MaxEnt
 
@@ -65,11 +64,11 @@ __English for Speakers of Other Languages Instructor__ 2018
 
 + Taught 15+ adult learners for 2 hours per week in immigrant community of 3 main non-English languages 
 
-__GEAR UP: Gaining Early Awareness and Readiness for Undergraduate Programs__ Philadelphia, PA  
-__Drexel Community Scholar for After-School Learning__ June 2016 - June 2018  
+__GEAR UP: Gaining Early Awareness and Readiness for Undergraduate Programs__  Philadelphia, PA  
+__Drexel Community Scholar for After-School Learning__  June 2016 - June 2018  
 
 + Instructed 50+ students in 9th and 10th grade science classrooms
-+ Directed Drexel student volunteers to arrange after-school STEM activities for 30+ students in 3rd and 4th grade  
++ Directed and trained a team of Drexel student volunteers to arrange after-school STEM activities for 30+ students in 3rd and 4th grade
 + Invited to be a guest lecturer in 5th grade science classroom  
 
 __Drexel University: College of Arts and Science__ Philadelphia, PA  
@@ -133,7 +132,7 @@ Intel (now Regeneron) Science Talent Search by Society for Science and the Publi
 ## Additional
 ---
 
-__Interpersonal Skills__ - Public speaking, Technical presentations, Program/processes documentation, Meeting planning, Formal and informal youth education, Curriculum development, Event planning, Community outreach, Stakeholder engagement, Project management, Technical writing, Remote working
+__Interpersonal Skills__ - Public speaking, Technical presentations, Program/processes documentation, Meeting planning, Formal and informal youth education, Curriculum development, Event planning, Community outreach, Stakeholder engagement, Project management, Technical writing, Remote/Work-at-Home
 
 __Computer Skills__ - Proficient at Microsoft Office Suite (Word, Excel, PowerPoint), Outlook email, FileMaker Pro, Markdown (this resume's source); Intermediate at HTML/CSS, SQL, Git/GitHub, LaTeX, ArcGIS/QGIS; Learning R, Python, Swift   
 
