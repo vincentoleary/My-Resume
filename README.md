@@ -1,4 +1,5 @@
-This is Vincent OLeary's general use CV/résumé. It is written in markdown but the source files contain LaTeX commands to control appearance PDF format. The PDF format is hosted here and on my website vincentoleary.com. My contact information has been redacted.
+This is my comprehensive list of all possible resume components. Current resumes are designed in Canva or Word using these components. I used to maintain this list in markdown with latex commands then export to PDF with pandoc, but this process broke for me during the macOS and M1 transition.
+
 
 ## Education
 ---
