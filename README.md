@@ -1,13 +1,15 @@
 This is my comprehensive list of résumé components. Current résumés are designed in Canva or Word using these components. I used to maintain this list as a combination of markdown and latex for export to PDF with pandoc, but this process was less adaptable over time.  
 
-Note for US federal positions: US Citizen, Registered with the Selective Service System, Qualified for unique hiring path, Non-Competitive Eligibility  
-
-## Personal Statement
-Seeking a position at the expiration of my term with AmeriCorps that will allow me to maximize my 10+ years of experience in science communication and mentoring in order to connect environmental policy and research with the communities and people they affect.
-
-## Projects
-
 ## Education
+2022 WV Climate Change Professional Development Course
+Fairmont State University, Remote
+
+2022 Mechanics Modeling Instruction for High School Physics Course
+Sienna College, Remote
+
+2022 Coding Integration into High School Physics & Physical Science Course
+MercyHurst University, Remote
+
 2021 NewForce Software Development Training Program  
 Generation West Virginia, Remote
 
@@ -21,32 +23,21 @@ _Relevant Courses_: Biogeography, Biodiversity, Conservation Biology, Phylogenet
 2015 GREEN Program Study Abroad (4 credits)  
 Reykjavik University, Reykjavik, Iceland  
 
-## Tech Experience
-__Junior Full Stack Software Developer__  
-NewForce, Remote, Jan 2021 - Present  
-Intensive full-time 6-month software development immersive training program focusing on full stack (C#/.NET) development fundamentals and problem solving. The final half of the program executed in a simulated company environment with Scrum methodology.  
-+ Applied object-oriented programming fundamentals through team-based projects that reflect real world business problems
-+ Collaborated remotely on projects using Slack and Zoom
-+ Managed source code version control with Git/ GitHub
-+ Applied JavaScript, HTML, and CSS fundamentals to build a feature-rich social media dashboard
-+ Leveraged native ES6 module bundling to build DRY, reusable components
-+ Designed and built single-page kennel management application with React using Hooks
-+ Designed applications through white boarding dependencies and building ERD’s
-+ Built and interacted with databases using SQL, ADO.NET, and Entity Framework with migrations
-+ Created a C#/.NETCore RESTful API to track resources at an e-commerce company
-+ Built and maintained integration tests for APIs in ASP.NET Core
-+ Developed a HR tracking app and an e-commerce platform using ASP.NET, MVC, and Razor templates in Visual Studio 2019
-
 ## Work Experience
+__Adjunct Instructor__
+Wheeling University, Wheeling, WV, Aug 2022 - Present  
+
+__Science Teacher and STEM Program Coordinator__
+Central Catholic High School, Wheeling, WV, Jul 2021 - Present  
+
 __Field Director__  
 US House Congressional Campaign, Remote, July 2020 - Dec 2020  
 + Organized literature drops to constituents 
-+ Recruit and train remote volunteers making voter contacts during the campaign cycle
-+ Write interesting and effective prompts for phone and text based volunteer outreach
++ Recruited and trained remote volunteers making voter contacts during the campaign cycle
++ Wrote interesting and effective prompts for phone and text based volunteer outreach
 
 __Permanent Substitute Teacher__  
 Central Catholic High School, Wheeling, WV, Feb 2020 - Dec 2020   
-+ Served as English teacher for 5 weeks 
 + Executed lesson plans
 + Recorded the grades
 + Communicated with students and administrators 
@@ -67,7 +58,7 @@ First AmeriCorps VISTA hire at Fab Lab maker-space facility within Carnegie Scie
 + Assisted with planning, implementing, and evaluating regional outreach to potential mentor/mentee participants
 + Recognized as "Most Innovative Maker-Centered Learning Program of the Year" by Makers + Mentors Network 
 
-__Truman Scholarship Summer Institute Intern__ (Chris Avery , PhD.)  
+__Truman Foundation Scholarship Summer Institute Intern__ (Chris Avery , PhD.)  
 White House Office of Science and Technology Policy: U.S. Global Change Research Program, Washington, DC, Jun - Jul 2018  
 Recognized for exemplary contributions towards the publication of Volume II of the 4th National Climate Assessment, an inter-agency effort coordinated by the White House to identify and explain the risks of climate change to policymakers.  
 
@@ -78,7 +69,7 @@ __Curatorial Assistant for Vertebrate Paleontology__ (Ted Daeschler, PhD.)
 Academy of Natural Sciences of Drexel University, Philadelphia, PA, Dec 2013 - Dec 2017  
 + Spearheaded modernization of digital vertebrate paleontology database, doubling size by cataloging 9000+ new records  
 
-__NOAA Hollings Scholarship Intern__ (Chris Amante, PhD.)  
+__NOAA Hollings Scholarship Research Intern__ (Chris Amante, PhD.)  
 NOAA: National Centers for Environmental Information, Boulder, CO, Jun - Aug 2017  
 + Analyzed project requirements and created standardized global model of elevation at improved resolution using ArcGIS  
 
@@ -93,9 +84,25 @@ __Students Tackling Advanced Research (STAR) Summer Scholar__ (Daniel Duran, PhD
 Drexel University: Office of Undergraduate Research, Philadelphia, PA, Jun - Aug 2014  
 + Forecasted range expansion due to climate change of invasive crayfish using MaxEnt
 
+## Tech Experience
+__Junior Full Stack Software Developer__  
+NewForce, Remote, Jan 2021 - Jul 2021  
+Intensive full-time 6-month software development immersive training program focusing on full stack (C#/.NET) development fundamentals and problem solving. The final half of the program executed in a simulated company environment with Scrum methodology.  
++ Applied object-oriented programming fundamentals through team-based projects that reflect real world business problems
++ Collaborated remotely on projects using Slack and Zoom
++ Managed source code version control with Git/ GitHub
++ Applied JavaScript, HTML, and CSS fundamentals to build a feature-rich social media dashboard
++ Leveraged native ES6 module bundling to build DRY, reusable components
++ Designed and built single-page kennel management application with React using Hooks
++ Designed applications through white boarding dependencies and building ERD’s
++ Built and interacted with databases using SQL, ADO.NET, and Entity Framework with migrations
++ Created a C#/.NETCore RESTful API to track resources at an e-commerce company
++ Built and maintained integration tests for APIs in ASP.NET Core
++ Developed a HR tracking app and an e-commerce platform using ASP.NET, MVC, and Razor templates in Visual Studio 2019
+
 ## Related Experience
 __Board Member__
-Truman Scholars Association, Remote, Dec 2019 - Present
+Truman Scholars Association, Remote, Dec 2019 - Dec 2021
 + 2021 - Chair of Finance and Governance Committee
 + 2020 - Vice Chair of Programming Committee
 
@@ -116,7 +123,8 @@ Lindy Center for Civic Engagement, Drexel University, Philadelphia, PA, June 201
 + Coordinated after-school STEM activities for 30+ students in 3rd and 4th grade for 5 hours per week
 + Directed and trained a team of Drexel student volunteers to arrange after-school STEM activities for 30+ students in 3rd and 4th grade  
 
-Rebuilding Native Nations, University of Arizona: Native Nations Institute, Tuscon, AZ (2017)  
+__Rebuilding Native Nations Program__
+University of Arizona: Native Nations Institute, Tuscon, AZ (2017)  
 
 __Contributing Instructor for Community Based Learning Curriculum__  
 Drexel University: College of Arts and Science Philadelphia, PA, 2014 - 2015  
@@ -128,6 +136,7 @@ Oglebay Good Zoo Wheeling, WV, 2008 - 2013
 
 ## Awards and Grants
 
+Appalachian STEM Academy Participant 2022  
 Drexel University Fellowships Graduation Award _($1,000)_ 2018  
 James C. Gaither Junior Fellows program university nominee 2018  
 Harry S. Truman Scholarship _($30,000+)_ 2017  
