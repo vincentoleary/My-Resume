@@ -147,6 +147,15 @@ Intel (now Regeneron) Science Talent Search by Society for Science and the Publi
 National Merit Scholar Finalist 2013  
 Eagle Scout 2010
 
+## Professional Memberships
+Modeling Teachers International June 2024 - present  
+WV Science Teachers Association Oct 2023 - present  
+National Science Teaching Association  Oct 2023 - present  
+American Modeling Teachers Association June 2022 - present  
+
+Truman Scholars Association June 2017 - present  
+Udall Alumni Association June 2017 - present  
+
 ## Other Experience
 __Board Member__  
 Truman Scholars Association, Remote, Dec 2019 - Dec 2021
