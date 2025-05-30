@@ -92,7 +92,7 @@ Accelerated Certification for Teaching, GPA 3.82
 NewForce Software Development Training Program by GenerationWV
 
 2013 - 2018 __Drexel University: Pennoni Honors College__, Philadelphia, PA   
-B.S. Environmental Science with minor in Geoscience, Cum Laude GPA 3.56   
+B.S. Environmental Science with minor in Geoscience, cum laude GPA 3.56   
 _Relevant Courses_: Biogeography, Biodiversity, Conservation Biology, Phylogenetic Analysis, Physical Geology, Earth System Processes, GIS & Environmental Modeling, Scientific Data Analysis, Statistics and Probability, Community Mobilization and Advocacy, American Political Thought, Systems Approach to Global Challenges  
 2015 __Reykjavik University__, Reykjavik, Iceland   
 GREEN Program Study Abroad - 4 credits
