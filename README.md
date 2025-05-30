@@ -2,8 +2,8 @@ This is a comprehensive list of my résumé components. Current résumés ar
 
 ## Contact Information
 [https://vincentoleary.com/](https://vincentoleary.com/)
-[https://linkedin.com/in/vincentoleary/](https://linkedin.com/in/vincentoleary/)
-[https://github.com/vincentoleary](https://github.com/vincentoleary)
+[https://linkedin.com/in/vincentoleary/](https://linkedin.com/in/vincentoleary/)   
+[https://github.com/vincentoleary](https://github.com/vincentoleary)   
 
 ## About Me
 I have been involved in environmental education and climate change research for nearly 20 years, working at a zoo before college, then at science museums, public schools, and federal government agencies before finding my passion as a classroom science teacher. I love that I get to inspire students just like the teachers I remember who pushed me to success.
@@ -15,7 +15,7 @@ Previously, I was proud to serve my community as an AmeriCorps VISTA, authoring 
 Before that, I worked in the federal government for NOAA (National Oceanic and Atmospheric Administration) and then at the National Science and Technology Council for the White House to translate publicly funded research about climate change into reports and tools that engage and educate local communities.
 
 ## Teaching Experience
-__Science Teacher and STEM Program Coordinator__
+__Science Teacher and STEM Program Coordinator__   
 Central Catholic High School, Wheeling, WV, Jan 2020 - Present
 + Performed all duties as the sole teacher for Physics, Environmental Science, Robotics, and Engineering classes.
 + Developed instructional plans that fully utilized our unique 75 minute class periods through a variety of direct instruction and hands on laboratory experiments.
@@ -30,7 +30,7 @@ Central Catholic High School, Wheeling, WV, Jan 2020 - Present
 + Overall as STEM Coordinator I organized new community partnerships to extend student opportunities in STEM beyond the classroom, brought in multiple guest speakers to STEM classes, raised thousands of dollars in new grants and equipment for the robotics and religion departments, coached students to our first ever award at a state competition for the Varsity robotics program, coordinated recurring annual events celebrating STEM at Wheeling Central, and represented Central at several state and national panels discussing our STEM programs. 
 + Over 5 years, I averaged $15,000 in new funding secured from grants, solicitations, and donated supplies.
 
-__Adjunct Science Instructor__
+__Adjunct Science Instructor__   
 Wheeling University, Wheeling, WV, Aug 2022 - May 2023 
 + Taught introductory lab sequence for Chemistry
 
@@ -73,67 +73,67 @@ Oglebay Good Zoo Wheeling, WV, 2008 - 2013
 + Directed educational activities including summer camps for 4 to 6-year old-children for 40 hours per week  
 
 ## Certifications
-West Virginia Professional Teaching Certification, expiration June, 2030
+__West Virginia Professional Teaching Certification__, expiration June, 2030
 Endorsements: General Science (05-AD)
 
 [VEX V5 Robotics Teacher Certification](https://www.cs2n.org/shared_achievement/UserCertificate/28e7861b15be), Carnegie Mellon Robotics Academy, August, 2023
 
 ## Education
-2023 - 2024 __University of Wisconsin: Oshkosh__, Remote
+2023 - 2024 __University of Wisconsin: Oshkosh__, Remote   
 Teacher Professional Development workshops on Modeling Instruction for Physics - 6 graduate credits
 
-2022 - 2023 __MercyHurst University__, Remote
+2022 - 2023 __MercyHurst University__, Remote   
 Teacher Professional Development workshops on coding in High School Physics - 3 graduate credits
 
-2021 - 2022 __Wheeling University__, Wheeling, WV
+2021 - 2022 __Wheeling University__, Wheeling, WV   
 Accelerated Certification for Teaching, GPA 3.82  
 
-2020 - 2021 __Mountwest Community & Technical College__, Remote 
+2020 - 2021 __Mountwest Community & Technical College__, Remote  
 NewForce Software Development Training Program by GenerationWV
 
-2013 - 2018 __Drexel University: Pennoni Honors College__, Philadelphia, PA
+2013 - 2018 __Drexel University: Pennoni Honors College__, Philadelphia, PA   
 B.S. Environmental Science with minor in Geoscience, Cum Laude GPA 3.56   
 _Relevant Courses_: Biogeography, Biodiversity, Conservation Biology, Phylogenetic Analysis, Physical Geology, Earth System Processes, GIS & Environmental Modeling, Scientific Data Analysis, Statistics and Probability, Community Mobilization and Advocacy, American Political Thought, Systems Approach to Global Challenges  
-2015 __Reykjavik University__, Reykjavik, Iceland
+2015 __Reykjavik University__, Reykjavik, Iceland   
 GREEN Program Study Abroad - 4 credits
 
 ## Professional Development
-2025 __Exploring Geosciences Solutions (EGeoS) Educator Influencer Workshop__
+2025 __Exploring Geosciences Solutions (EGeoS) Educator Influencer Workshop__   
 West Virginia University, WV
 
-2025 __Science and Technology Applied to Radio Signals (STARS) Workshop__
+2025 __Science and Technology Applied to Radio Signals (STARS) Workshop__   
 Concord University, WV
 
-2024 __SSP Research Teacher Cohort__
+2024 __SSP Research Teacher Cohort__   
 Society for Science and the Public (SSP), Remote
 
-2023 __VEX V5 Teacher Training__
+2023 __VEX V5 Teacher Training__   
 Carnegie Mellon Robotics Academy, Pittsburgh, PA
 
-2023 __Wetlands Educator Workshop__
+2023 __Wetlands Educator Workshop__   
 Project Learning Tree, Morgantown, WV
 
-2023 __WV Energy Education Workshop__
+2023 __WV Energy Education Workshop__   
 National Energy Education Development (NEED) Program, Wheeling, WV
 
-2022 __WV Climate Change Professional Development Cohort__
+2022 __WV Climate Change Professional Development Cohort__   
 Fairmont State University, Remote
 
-2022 __Summer Center for Climate, Energy, and Environmental Decision Making (SUCCEED) Teacher Workshop__
+2022 __Summer Center for Climate, Energy, and Environmental Decision Making (SUCCEED) Teacher Workshop__   
 Carnegie Mellon University, Pittsburgh, PA
 
-2022 __Integrating Energy, Equity, and Place in High School Physics Workshop__
+2022 __Integrating Energy, Equity, and Place in High School Physics Workshop__   
 Seattle Pacific University, Remote
 
-2022 __Mechanics Modeling Instruction for High School Physics Teacher Training__
+2022 __Mechanics Modeling Instruction for High School Physics Teacher Training__   
 Sienna College, Remote
 
-2022 __Investigative Science Learning Environment (ISLE) Teacher Training__ 
+2022 __Investigative Science Learning Environment (ISLE) Teacher Training__   
 Rutgers University, Remote
 
 ## Awards and Grants
-ACS-Hach High School Chemistry Classroom Grant ($1,500) 2023
-Appalachian STEM Academy for STEM Teachers participant 2022
+ACS-Hach High School Chemistry Classroom Grant ($1,500) 2023  
+Appalachian STEM Academy for STEM Teachers participant 2022  
 Drexel University Fellowships Graduation Award _($1,000)_ 2018  
 James C. Gaither Junior Fellows program university nominee 2018  
 Harry S. Truman Scholarship _($30,000+)_ 2017  
@@ -144,11 +144,11 @@ NOAA Ernest F. Hollings Scholarship _($26,000+)_ 2016
 Drexel University ExCITe Center Seed Fund Research Grant _($5,000)_ 2016  
 Drexel University Steinbright Corporate Partners Grant _($4,000)_ 2016  
 Intel (now Regeneron) Science Talent Search by Society for Science and the Public National Finalist 2013  
-National Merit Scholar Finalist 2013
+National Merit Scholar Finalist 2013  
 Eagle Scout 2010
 
 ## Other Experience
-__Board Member__
+__Board Member__  
 Truman Scholars Association, Remote, Dec 2019 - Dec 2021
 + 2021 - served as Chair of Finance and Governance Committee
 + 2020 - served as Vice Chair of Programming Committee
@@ -180,10 +180,10 @@ Recognized for exemplary contributions towards the publication of the Fourth Nat
 + Negotiated with lead authors on image requirements while addressing questions and issues from stakeholders
 + Recommended portfolio of publicly available images on time for each of 30+ chapters in Volume II
 
-2018 __Nonprofit Board Prep Program__
+2018 __Nonprofit Board Prep Program__  
 Young Involved Philadelphia (YIP), Philadelphia, PA
 
-2017 __Rebuilding Native Nations Program__
+2017 __Rebuilding Native Nations Program__  
 University of Arizona: Native Nations Institute, Tuscon, AZ
 
 ## Research Experience
@@ -215,33 +215,33 @@ Drexel University: Office of Undergraduate Research, Philadelphia, PA, Jun - Aug
 Seltmann, K., S. Lafia, D. Paul, ... __V. OLeary,__ _et al._ (2018), Georeferencing for Research Use (GRU): An integrated geospatial training paradigm for biocollections researchers and data providers. Research Ideas and Outcomes 4: e32449.
 
 ## Oral Presentations
-9. __OLeary, V__., Going Beyond Kinetic and Gravitational Energy. Presented at Annual Conference, WVSTA, Roanoke, WV, October 24-26, 2024.   
-14. __OLeary, V__., V. Sethuraman, S Jayaraman Rukmani, J Smith, Computer Simulating Movement of Atoms. Presented remotely at the Appalachian Regional Commission Appalachian STEM Academy, Oak Ridge National Laboratory, Oak Ridge, TN, July, 2022.
-13. Spoke on panel "Protagonists of Transformation: Youth and Young Adult Mobilization for Climate Action" for Catholic Climate Covenant remotely. October 24, 2023.
-12. Spoke on panel "Wholemakers: Empowering Youth and Teens for Creation Care for NCEA Webinars remotely. August 29, 2023.
-11. __OLeary, V__., How to create a new map of the world. Presented at Week of Undergraduate Excellence, Drexel University, Philadelphia, PA, May 14-18, 2018.  
-10. __OLeary, V__., C. Amante, GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. Presented at Student Conference on Global Challenges, Drexel University, Philadelphia, PA, March 1, 2018.  
-9. __OLeary, V__., C. Amante, GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. Presented at Science and Education Symposium, NOAA, Silver Springs, MD, August 1-3, 2017.   
-8. Shirey, V., __V. OLeary__, S. Dilliplane, More Than a Map: Adventures in Biodiversity Informatics Visualization. Presented at 2017 Annual Meeting, SPNHC, Denver, CO, June 18-24, 2017.  
-7. __OLeary, V__., Digitization of the ANSP Vertebrate Paleontology collections. Presented at Week of Undergraduate Excellence, Drexel University, Philadelphia, PA, May 1-5, 2017.   
-6. __OLeary, V__., Building Communities around a Shared River. Presented at Week of Undergraduate Excellence, Drexel University, Philadelphia, PA, May 1-5, 2017.  
-5. __OLeary, V__., From Online to On the River: Opportunities for Data Storytelling. Presented at River Research Seminar, University of Pennsylvania, Philadelphia, PA, April 28, 2017.  
-4. __OLeary, V__., M. Sei, G. Rosenberg and J. Mead, Modeling species distributions of landsnail biodiversity. Presented at National Conference on Undergraduate Research, University of North Carolina, Asheville, NC, April 7-9, 2016.  
-3. __OLeary, V__., M. Sei, G. Rosenberg and J. Mead, Describing multivariate relationships and spatial distributions of snail biodiversity in Jamaica. Presented at BEES Research Day, Drexel University, Philadelphia, PA, March 10, 2016.  
-2. __OLeary, V__., T. Daeschler, Building an urban ecology curriculum along the Schuylkill River walking trail. Presented at Student Conference on Global Challenges, Drexel University, Philadelphia, PA, February 25, 2016.  
-1. __OLeary, V__, 1 Footpath, 100 Stories: Climate change and the importance of "talking science". Presented twice at Undergraduate Research Nerd Night, Drexel University, Philadelphia, PA, 2016.
+15 __OLeary, V__., Going Beyond Kinetic and Gravitational Energy. Presented at Annual Conference, WVSTA, Roanoke, WV, October 24-26, 2024.   
+14 __OLeary, V__., V. Sethuraman, S Jayaraman Rukmani, J Smith, Computer Simulating Movement of Atoms. Presented remotely at the Appalachian Regional Commission Appalachian STEM Academy, Oak Ridge National Laboratory, Oak Ridge, TN, July, 2022.
+13 Spoke on panel "Protagonists of Transformation: Youth and Young Adult Mobilization for Climate Action" for Catholic Climate Covenant remotely. October 24, 2023.
+12 Spoke on panel "Wholemakers: Empowering Youth and Teens for Creation Care for NCEA Webinars remotely. August 29, 2023.
+11 __OLeary, V__., How to create a new map of the world. Presented at Week of Undergraduate Excellence, Drexel University, Philadelphia, PA, May 14-18, 2018.  
+10 __OLeary, V__., C. Amante, GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. Presented at Student Conference on Global Challenges, Drexel University, Philadelphia, PA, March 1, 2018.  
+9 __OLeary, V__., C. Amante, GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. Presented at Science and Education Symposium, NOAA, Silver Springs, MD, August 1-3, 2017.   
+8 Shirey, V., __V. OLeary__, S. Dilliplane, More Than a Map: Adventures in Biodiversity Informatics Visualization. Presented at 2017 Annual Meeting, SPNHC, Denver, CO, June 18-24, 2017.  
+7 __OLeary, V__., Digitization of the ANSP Vertebrate Paleontology collections. Presented at Week of Undergraduate Excellence, Drexel University, Philadelphia, PA, May 1-5, 2017.   
+6 __OLeary, V__., Building Communities around a Shared River. Presented at Week of Undergraduate Excellence, Drexel University, Philadelphia, PA, May 1-5, 2017.  
+5 __OLeary, V__., From Online to On the River: Opportunities for Data Storytelling. Presented at River Research Seminar, University of Pennsylvania, Philadelphia, PA, April 28, 2017.  
+4 __OLeary, V__., M. Sei, G. Rosenberg and J. Mead, Modeling species distributions of landsnail biodiversity. Presented at National Conference on Undergraduate Research, University of North Carolina, Asheville, NC, April 7-9, 2016.  
+3 __OLeary, V__., M. Sei, G. Rosenberg and J. Mead, Describing multivariate relationships and spatial distributions of snail biodiversity in Jamaica. Presented at BEES Research Day, Drexel University, Philadelphia, PA, March 10, 2016.  
+2 __OLeary, V__., T. Daeschler, Building an urban ecology curriculum along the Schuylkill River walking trail. Presented at Student Conference on Global Challenges, Drexel University, Philadelphia, PA, February 25, 2016.  
+1 __OLeary, V__, 1 Footpath, 100 Stories: Climate change and the importance of "talking science". Presented twice at Undergraduate Research Nerd Night, Drexel University, Philadelphia, PA, 2016.
 
 ## Poster Presentations
-9. __OLeary, V__., S. Fallon, Climate Change Teaching Resources by West Virginia Teachers! Presented at Annual Conference, WVSTA, Wheeling, WV, October 26-28, 2023.   
-8. __OLeary, V__., V. Sethuraman, S Jayaraman Rukmani, J Smith, Computer Simulating Movement of Atoms. Prepared for the Appalachian Regional Commission Appalachian STEM Academy, Oak Ridge National Laboratory, Oak Ridge, TN, July, 2022.
-7. __OLeary, V__., C. Amante, GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. Abstract OS31C-1412 presented at Fall Meeting, AGU, New Orleans, LA, 11-15 December 2017.  
+9 __OLeary, V__., S. Fallon, Climate Change Teaching Resources by West Virginia Teachers! Presented at Annual Conference, WVSTA, Wheeling, WV, October 26-28, 2023.   
+8 __OLeary, V__., V. Sethuraman, S Jayaraman Rukmani, J Smith, Computer Simulating Movement of Atoms. Prepared for the Appalachian Regional Commission Appalachian STEM Academy, Oak Ridge National Laboratory, Oak Ridge, TN, July, 2022.
+7 __OLeary, V__., C. Amante, GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. Abstract OS31C-1412 presented at Fall Meeting, AGU, New Orleans, LA, 11-15 December 2017.  
 *(declined)* __OLeary, V__., V. Shirey, and S. Dilliplane, Connecting natural history collections to their historical context and telling those stories to a global online audience. Annual Meeting, ESA, Portland, OR, Aug 6-11, 2017.  
-6. Shirey, V., __V. OLeary__, and S. Dilliplane, Big Data Opportunities in Ecological and Biodiversity Informatics: A Functional Trait Perspective. Presented at Digital Data in Biodiversity Research Conference, iDigBio, Ann Arbor, MI, June 5-6, 2017.   
-5. __OLeary, V__., M. Sei, G. Rosenberg and J. Mead, Describing multivariate relationships and spatial distributions of snail biodiversity in Jamaica. Presented at Stanford Research Conference, Stanford University, Stanford, CA, April 15-17, 2016.  
-4. Raphelson, M., __V. OLeary__, A. Adams, K. Luckenbill and T. Daeschler, Student projects using digital imaging techniques in Vertebrate Paleontology to capture new details of Late Devonian-age fossils. Presented at BEES Research Day, Drexel University, Philadelphia, PA, March 10, 2016.  
-3. __OLeary, V__., M. Sei, G. Rosenberg and J. Mead, Describing multivariate relationships and spatial distributions of snail biodiversity in Jamaica. Presented at National Collegiate Research Conference, Harvard University, Cambridge, MA, January 21-23, 2016.  
-2. __OLeary, V__., D. Duran, Niche Modeling for Management of Invasive Crayfish. Presented at STAR Scholars Summer Showcase, Drexel University, Philadelphia, PA, August 27, 2014.  
-1. __OLeary, V__., Z. Loughman, A Multi-Year Analysis of _Orconectid_ Crayfish Invasion Dynamics in West Virginia Utilizing Laboratory and Field Methodologies. Presented at COAS Research Days, Drexel University, Philadelphia, PA, February 17-18, 2014.
+6 Shirey, V., __V. OLeary__, and S. Dilliplane, Big Data Opportunities in Ecological and Biodiversity Informatics: A Functional Trait Perspective. Presented at Digital Data in Biodiversity Research Conference, iDigBio, Ann Arbor, MI, June 5-6, 2017.   
+5 __OLeary, V__., M. Sei, G. Rosenberg and J. Mead, Describing multivariate relationships and spatial distributions of snail biodiversity in Jamaica. Presented at Stanford Research Conference, Stanford University, Stanford, CA, April 15-17, 2016.  
+4 Raphelson, M., __V. OLeary__, A. Adams, K. Luckenbill and T. Daeschler, Student projects using digital imaging techniques in Vertebrate Paleontology to capture new details of Late Devonian-age fossils. Presented at BEES Research Day, Drexel University, Philadelphia, PA, March 10, 2016.  
+3 __OLeary, V__., M. Sei, G. Rosenberg and J. Mead, Describing multivariate relationships and spatial distributions of snail biodiversity in Jamaica. Presented at National Collegiate Research Conference, Harvard University, Cambridge, MA, January 21-23, 2016.  
+2 __OLeary, V__., D. Duran, Niche Modeling for Management of Invasive Crayfish. Presented at STAR Scholars Summer Showcase, Drexel University, Philadelphia, PA, August 27, 2014.  
+1 __OLeary, V__., Z. Loughman, A Multi-Year Analysis of _Orconectid_ Crayfish Invasion Dynamics in West Virginia Utilizing Laboratory and Field Methodologies. Presented at COAS Research Days, Drexel University, Philadelphia, PA, February 17-18, 2014.
 
 ## Skills
 __Interpersonal Skills__ - Public speaking, Technical presentations, Program/processes documentation, Meeting planning, Formal and informal youth education, Curriculum development, Event planning, Community outreach, Stakeholder engagement, Project management, Technical writing, Remote/Work-at-Home
