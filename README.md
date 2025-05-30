@@ -98,11 +98,11 @@ _Relevant Courses_: Biogeography, Biodiversity, Conservation Biology, Phylogenet
 GREEN Program Study Abroad - 4 credits
 
 ## Professional Development
-2025 __Exploring Geosciences Solutions (EGeoS) Educator Influencer Workshop__   
-West Virginia University, WV
-
 2025 __Science and Technology Applied to Radio Signals (STARS) Workshop__   
 Concord University, WV
+
+2025 __VEX V5 Coaching Workshop__  
+West Virginia University, WV
 
 2024 __SSP Research Teacher Cohort__   
 Society for Science and the Public (SSP), Remote
