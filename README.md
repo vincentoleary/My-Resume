@@ -216,9 +216,9 @@ Seltmann, K., S. Lafia, D. Paul, ... __V. OLeary,__ _et al._ (2018), Georeferenc
 
 ## Oral Presentations
 15 __OLeary, V__., Going Beyond Kinetic and Gravitational Energy. Presented at Annual Conference, WVSTA, Roanoke, WV, October 24-26, 2024.   
-14 __OLeary, V__., V. Sethuraman, S Jayaraman Rukmani, J Smith, Computer Simulating Movement of Atoms. Presented remotely at the Appalachian Regional Commission Appalachian STEM Academy, Oak Ridge National Laboratory, Oak Ridge, TN, July, 2022.
-13 Spoke on panel "Protagonists of Transformation: Youth and Young Adult Mobilization for Climate Action" for Catholic Climate Covenant remotely. October 24, 2023.
-12 Spoke on panel "Wholemakers: Empowering Youth and Teens for Creation Care for NCEA Webinars remotely. August 29, 2023.
+14 __OLeary, V__., V. Sethuraman, S Jayaraman Rukmani, J Smith, Computer Simulating Movement of Atoms. Presented remotely at the Appalachian Regional Commission Appalachian STEM Academy, Oak Ridge National Laboratory, Oak Ridge, TN, July, 2022.  
+13 Spoke on panel "Protagonists of Transformation: Youth and Young Adult Mobilization for Climate Action" for Catholic Climate Covenant remotely. October 24, 2023.  
+12 Spoke on panel "Wholemakers: Empowering Youth and Teens for Creation Care for NCEA Webinars remotely. August 29, 2023.  
 11 __OLeary, V__., How to create a new map of the world. Presented at Week of Undergraduate Excellence, Drexel University, Philadelphia, PA, May 14-18, 2018.  
 10 __OLeary, V__., C. Amante, GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. Presented at Student Conference on Global Challenges, Drexel University, Philadelphia, PA, March 1, 2018.  
 9 __OLeary, V__., C. Amante, GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. Presented at Science and Education Symposium, NOAA, Silver Springs, MD, August 1-3, 2017.   
@@ -233,7 +233,7 @@ Seltmann, K., S. Lafia, D. Paul, ... __V. OLeary,__ _et al._ (2018), Georeferenc
 
 ## Poster Presentations
 9 __OLeary, V__., S. Fallon, Climate Change Teaching Resources by West Virginia Teachers! Presented at Annual Conference, WVSTA, Wheeling, WV, October 26-28, 2023.   
-8 __OLeary, V__., V. Sethuraman, S Jayaraman Rukmani, J Smith, Computer Simulating Movement of Atoms. Prepared for the Appalachian Regional Commission Appalachian STEM Academy, Oak Ridge National Laboratory, Oak Ridge, TN, July, 2022.
+8 __OLeary, V__., V. Sethuraman, S Jayaraman Rukmani, J Smith, Computer Simulating Movement of Atoms. Prepared for the Appalachian Regional Commission Appalachian STEM Academy, Oak Ridge National Laboratory, Oak Ridge, TN, July, 2022.  
 7 __OLeary, V__., C. Amante, GLOBATO: An enhanced global relief model at 30 arc-seconds resolution. Abstract OS31C-1412 presented at Fall Meeting, AGU, New Orleans, LA, 11-15 December 2017.  
 *(declined)* __OLeary, V__., V. Shirey, and S. Dilliplane, Connecting natural history collections to their historical context and telling those stories to a global online audience. Annual Meeting, ESA, Portland, OR, Aug 6-11, 2017.  
 6 Shirey, V., __V. OLeary__, and S. Dilliplane, Big Data Opportunities in Ecological and Biodiversity Informatics: A Functional Trait Perspective. Presented at Digital Data in Biodiversity Research Conference, iDigBio, Ann Arbor, MI, June 5-6, 2017.   
