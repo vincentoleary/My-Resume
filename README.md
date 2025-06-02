@@ -14,64 +14,6 @@ Previously, I was proud to serve my community as an AmeriCorps VISTA, authoring 
 
 Before that, I worked in the federal government for NOAA (National Oceanic and Atmospheric Administration) and then at the National Science and Technology Council for the White House to translate publicly funded research about climate change into reports and tools that engage and educate local communities.
 
-## Teaching Experience
-__Science Teacher and STEM Program Coordinator__   
-Central Catholic High School, Wheeling, WV, Jan 2020 - Present
-+ Performed all duties as the sole teacher for Physics, Environmental Science, Robotics, and Engineering classes.
-+ Developed instructional plans that fully utilized our unique 75 minute class periods through a variety of direct instruction and hands on laboratory experiments.
-+ Adapted curriculum to the needs and interests of individual students where appropriate
-+ Established routines to manage student behavior in the classroom
-+ Attended hundreds of hours of professional development from local and national organizations, including training in Modeling Instruction, ISLE Physics, Project Learning Tree activities, and VEX V5 Robotics
-+ Students in my Engineering class won 1st place in their category at the annual PSU Sea Air and Land Robotics competition 4 years in a row. 
-+ Students in Environmental Science won 1st, 2nd, and 3rd place statewide in the 2023 WV Climate Change PSA video contest. Central Catholic was also one of just 2 high school participants in a national pilot program to test a new climate change workshop for youth in the Catholic Church, which combines lessons on our call for stewardship and empathy with care for the planet.
-+ Acted as the schoolwide STEM Coordinator overseeing new STEM programs and outreach to parochial schools, including annual events like 7th Grade Innovation Day and special events like 2024 Eclipse Extravaganza.
-+ Founded Varsity Robotics team at Wheeling Central, served as advisor to new robotics teams at our parochial middle schools, and was sole instructor for new robotics summer camp
-+ Coordinated schoolwide trash clean up event with community partners every year for Earth Day. This culminated in being the first area school selected to pilot a free recycling program by the Ohio County Solid Waste Authority.
-+ Overall as STEM Coordinator I organized new community partnerships to extend student opportunities in STEM beyond the classroom, brought in multiple guest speakers to STEM classes, raised thousands of dollars in new grants and equipment for the robotics and religion departments, coached students to our first ever award at a state competition for the Varsity robotics program, coordinated recurring annual events celebrating STEM at Wheeling Central, and represented Central at several state and national panels discussing our STEM programs. 
-+ Over 5 years, I averaged $15,000 in new funding secured from grants, solicitations, and donated supplies.
-
-__Adjunct Science Instructor__   
-Wheeling University, Wheeling, WV, Aug 2022 - May 2023 
-+ Taught introductory lab sequence for Chemistry
-
-__Substitute Teacher__  
-East Central Ohio Education Service Center, eastern Ohio, Oct 2019 - Mar 2020  
-+ Executed lesson plans
-+ Recorded the grades
-+ Communicated with students and administrators 
-+ Maintained safety of students 
-
-## Supporting Experience
-__AmeriCorps VISTA: Program Development Officer__  
-Carnegie Science Center: Center for STEM Education and Career Development, Pittsburgh, PA, Sep 2018 - Sep 2019  
-First AmeriCorps VISTA hire at Fab Lab maker-space facility within Carnegie Science Center. Supervised flagship youth mentoring program and doubled enrollment to 40 participants year over year.
-
-+ Authored guidebook on one-year timeline to introduce first-of-its-kind mentoring program to global Fab Lab network
-+ Assisted with planning, implementing, and evaluating regional outreach to potential mentor/mentee participants
-+ Recognized as "Most Innovative Maker-Centered Learning Program of the Year" by Makers + Mentors Network 
-
-__English for Speakers of Other Languages Instructor__  
-St. Thomas Aquinas Catholic Community Center, Philadelphia, PA, 2018  
-+ Taught 15+ adult learners for 2 hours per week in immigrant community of 3 main non-English languages 
-
-__High School STEM Mentor__  
-GEAR UP: Gaining Early Awareness and Readiness for Undergraduate Programs, Philadelphia, PA, June 2017 - June 2018  
-+ Helped instruct 50+ students in 9th and 10th grade science classrooms for 8 hours per week
-+ Worked alongside Americorps volunteers to develop after-school STEM programming
-
-__Drexel Community Scholar for After-School Learning__  
-Lindy Center for Civic Engagement, Drexel University, Philadelphia, PA, June 2016 - June 2017  
-+ Directed and trained a team of Drexel student volunteers to deliver an after-school STEM activity for 30+ students in 3rd and 4th grade for 5 hours per week
-+ Served as a volunteer judge for an elementary school science fair  
-
-__Contributing Instructor__  
-Drexel University: College of Arts and Science Philadelphia, PA, 2014 - 2015  
-+ Wrote and co-instructed a new community-based learning course for 18 students at Drexel University exploring scientific communication, climate change, and urban ecology in Philadelphia's city core
-
-__Zoo Educator__  
-Oglebay Good Zoo Wheeling, WV, 2008 - 2013  
-+ Directed educational activities including summer camps for 4 to 6-year old-children for 40 hours per week  
-
 ## Certifications
 __West Virginia Professional Teaching Certification__, expiration June, 2030
 Endorsements: General Science (05-AD)
@@ -95,12 +37,9 @@ NewForce Software Development Training Program by GenerationWV
 B.S. Environmental Science with minor in Geoscience, Cum Laude GPA 3.56   
 _Relevant Courses_: Biogeography, Biodiversity, Conservation Biology, Phylogenetic Analysis, Physical Geology, Earth System Processes, GIS & Environmental Modeling, Scientific Data Analysis, Statistics and Probability, Community Mobilization and Advocacy, American Political Thought, Systems Approach to Global Challenges  
 2015 __Reykjavik University__, Reykjavik, Iceland   
-GREEN Program Study Abroad - 4 credits
+GREEN Program Study Abroad - 4 credits   
 
-## Professional Development
-2025 __Exploring Geosciences Solutions (EGeoS) Educator Influencer Workshop__   
-West Virginia University, WV
-
+## Other Teacher Professional Development
 2025 __Science and Technology Applied to Radio Signals (STARS) Workshop__   
 Concord University, WV
 
@@ -129,7 +68,80 @@ Seattle Pacific University, Remote
 Sienna College, Remote
 
 2022 __Investigative Science Learning Environment (ISLE) Teacher Training__   
-Rutgers University, Remote
+Rutgers University, Remote  
+
+## Teaching Experience
+__Science Teacher and STEM Program Coordinator__   
+Central Catholic High School, Wheeling, WV, Jan 2020 - Present   
+Science Teacher (2020-Present)   
++ Designed and implemented 75-minute instructional plans that balanced direct instruction, guided inquiry, and hands-on laboratory experiments to maximize student engagement and comprehension of learning standards.
++ Created a supportive classroom environment, with processes like visibly random groups and vertical whiteboards that promoted student inquiry, collaboration, and respect, aligned with school-wide behavioral expectations.
++ Evaluated student progress through a variety of formative and summative assessments, using data to adjust instruction and communicate growth with students, parents, and counselors.
++ Led students to repeated success in regional and national competitions:
+    - Engineering students earned 1st place in their category at the PSU Sea Air and Land Robotics Competition for four consecutive years
+    - Environmental Science students secured 1st, 2nd, and 3rd place statewide in the 2023 WV Climate Change PSA Video Contest
++ Central Catholic was also one of just 2 high school participants in a national pilot program to test a new climate change workshop for youth in the Catholic Church, which combines lessons on our call for stewardship and empathy with care for the planet.  
++ Maintained accurate attendance, academic reports, and behavioral documentation following school policies.  
++ Attended hundreds of hours of professional development from local and national organizations, including training in Modeling Instruction, ISLE Physics, Project Learning Tree activities, and VEX V5 Robotics  
+
+STEM Coordinator (2021-Present)  
++ + Overall as STEM Coordinator I organized new community partnerships to extend student opportunities in STEM beyond the classroom, brought in multiple guest speakers to STEM classes, raised thousands of dollars in new grants and equipment for the robotics and religion departments, coached students to our first ever award at a state competition for the Varsity robotics program, coordinated recurring annual events celebrating STEM at Wheeling Central, and represented Central at several state and national panels discussing our STEM programs.   
++ Secured an average of $15,000 annually in grants, donations, and in-kind support over five years, directly enhancing science instruction and expanding resources for the robotics and science departments.
++ Launched annual Earth Day campus clean-up events in collaboration with community partners, leading to selection as the first area school to pilot a free recycling program by the Ohio County Solid Waste Authority.
++ Coordinated recurring schoolwide STEM events including the 7th grade “Innovation Day”, a STEM-focused outreach event with 80+ students participating, and special STEM community events like the 2024 solar eclipse.
+
+Founding Varsity Robotics Coach (2022-Present)
++ Coached students to the school’s first state-level robotics competition award within 3 years of program existing.
++ Expanded access to middle school students through new robotics summer camp and supervising new coaches.
+
+__Adjunct Science Instructor__   
+Wheeling University, Wheeling, WV, Aug 2022 - May 2023 
++ Taught chemistry lab curriculum emphasizing experimental design, accurate data analysis, and safety techniques.  
+
+__Substitute Teacher__  
+East Central Ohio Education Service Center, eastern Ohio, Oct 2019 - Mar 2020  
++ Executed lesson plans
++ Recorded the grades
++ Communicated with students and administrators 
++ Maintained safety of students 
+
+## Supporting Experience
+__AmeriCorps VISTA: Program Development Officer__  
+Carnegie Science Center: Center for STEM Education and Career Development, Pittsburgh, PA, Sep 2018 - Sep 2019  
+First AmeriCorps VISTA hire at Fab Lab maker-space facility within Carnegie Science Center. Supervised flagship youth mentoring program and doubled enrollment to 40 participants year over year.
+
++ Authored guidebook on one-year timeline to introduce first-of-its-kind mentoring program to global Fab Lab network
++ Assisted with planning, implementing, and evaluating regional outreach to potential mentor/mentee participants  
++ Directed outreach for a youth mentoring program, successfully doubling from 20 to 40 students in one year.  
++ Recognized as "Most Innovative Maker-Centered Learning Program of the Year" by Makers + Mentors Network 
+
+__English for Speakers of Other Languages Instructor__  
+St. Thomas Aquinas Catholic Community Center, Philadelphia, PA, 2018  
++ Taught 15+ adult learners for 2 hours per week in immigrant community of 3 main non-English languages 
+
+__High School STEM Mentor__  
+GEAR UP: Gaining Early Awareness and Readiness for Undergraduate Programs, Philadelphia, PA, June 2017 - June 2018  
++ Helped instruct 50+ students in 9th and 10th grade science classrooms for 8 hours per week
++ Worked alongside Americorps volunteers to develop after-school STEM programming
++ Served as a volunteer judge for an elementary school science fair  
+
+__Drexel Community Scholar for After-School Learning__  
+Lindy Center for Civic Engagement, Drexel University, Philadelphia, PA, June 2016 - June 2017  
++ Directed and trained a team of Drexel student volunteers to deliver an after-school STEM activity for 30+ students in 3rd and 4th grade for 5 hours per week  
+
+__Contributing Instructor__  
+Drexel University: College of Arts and Science Philadelphia, PA, 2014 - 2015  
++ Authored curriculum and co-led instruction for a community-based course exploring climate change impacts on cities, empowering 18 students to analyze environmental challenges and solutions.  
+
+__Zoo Educator__  
+Oglebay Good Zoo Wheeling, WV, 2008 - 2013  
++ Directed educational activities including summer camps for 4 to 6-year old-children for 40 hours per week  
+
+## Professional Memberships  
++ Modeling Teachers International (2024-present)  
++ WV Science Teachers Association (2023-present)  
++ National Science Teaching Association (2023-present)  
++ American Modeling Teachers Association (2022-present)  
 
 ## Awards and Grants
 ACS-Hach High School Chemistry Classroom Grant ($1,500) 2023  
@@ -177,7 +189,7 @@ US House Congressional Campaign, Remote, July 2020 - Nov 2020
 __Truman Foundation Scholarship Summer Institute Assistant__ (Chris Avery , PhD.)  
 White House Office of Science and Technology Policy: U.S. Global Change Research Program, Washington, DC, May - Aug 2018  
 Recognized for exemplary contributions towards the publication of the Fourth National Climate Assessment, Volume II - an inter-agency effort coordinated by the White House to identify and explain the risks of climate change to policymakers. 
-+ Negotiated with lead authors on image requirements while addressing questions and issues from stakeholders
++ Collaborated with lead authors on the Fourth National Climate Assessment to select appropriate chapter images, contributing to clear, policy-relevant communication of climate science risks.
 + Recommended portfolio of publicly available images on time for each of 30+ chapters in Volume II
 
 2018 __Nonprofit Board Prep Program__  
