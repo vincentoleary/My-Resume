@@ -1,7 +1,7 @@
 This is a comprehensive list of my résumé components. Current résumés are designed in a word processor tailored for a specific job using the information from these components.
 
 ## Contact Information
-[https://vincentoleary.com/](https://vincentoleary.com/)
+[https://vincentoleary.com/](https://vincentoleary.com/)   
 [https://linkedin.com/in/vincentoleary/](https://linkedin.com/in/vincentoleary/)   
 [https://github.com/vincentoleary](https://github.com/vincentoleary)   
 
@@ -85,7 +85,7 @@ Science Teacher (2020-Present)
 + Attended hundreds of hours of professional development from local and national organizations, including training in Modeling Instruction, ISLE Physics, Project Learning Tree activities, and VEX V5 Robotics  
 
 STEM Coordinator (2021-Present)  
-+ + Overall as STEM Coordinator I organized new community partnerships to extend student opportunities in STEM beyond the classroom, brought in multiple guest speakers to STEM classes, raised thousands of dollars in new grants and equipment for the robotics and religion departments, coached students to our first ever award at a state competition for the Varsity robotics program, coordinated recurring annual events celebrating STEM at Wheeling Central, and represented Central at several state and national panels discussing our STEM programs.   
++ Overall as STEM Coordinator I organized new community partnerships to extend student opportunities in STEM beyond the classroom, brought in multiple guest speakers to STEM classes, raised thousands of dollars in new grants and equipment for the robotics and religion departments, coached students to our first ever award at a state competition for the Varsity robotics program, coordinated recurring annual events celebrating STEM at Wheeling Central, and represented Central at several state and national panels discussing our STEM programs.   
 + Secured an average of $15,000 annually in grants, donations, and in-kind support over five years, directly enhancing science instruction and expanding resources for the robotics and science departments.
 + Launched annual Earth Day campus clean-up events in collaboration with community partners, leading to selection as the first area school to pilot a free recycling program by the Ohio County Solid Waste Authority.
 + Coordinated recurring schoolwide STEM events including the 7th grade “Innovation Day”, a STEM-focused outreach event with 80+ students participating, and special STEM community events like the 2024 solar eclipse.
@@ -108,8 +108,7 @@ East Central Ohio Education Service Center, eastern Ohio, Oct 2019 - Mar 2020
 ## Supporting Experience
 __AmeriCorps VISTA: Program Development Officer__  
 Carnegie Science Center: Center for STEM Education and Career Development, Pittsburgh, PA, Sep 2018 - Sep 2019  
-First AmeriCorps VISTA hire at Fab Lab maker-space facility within Carnegie Science Center. Supervised flagship youth mentoring program and doubled enrollment to 40 participants year over year.
-
+First AmeriCorps VISTA hire at Fab Lab maker-space facility within Carnegie Science Center. Supervised flagship youth mentoring program and doubled enrollment to 40 participants year over year.  
 + Authored guidebook on one-year timeline to introduce first-of-its-kind mentoring program to global Fab Lab network
 + Assisted with planning, implementing, and evaluating regional outreach to potential mentor/mentee participants  
 + Directed outreach for a youth mentoring program, successfully doubling from 20 to 40 students in one year.  
@@ -136,67 +135,6 @@ Drexel University: College of Arts and Science Philadelphia, PA, 2014 - 2015
 __Zoo Educator__  
 Oglebay Good Zoo Wheeling, WV, 2008 - 2013  
 + Directed educational activities including summer camps for 4 to 6-year old-children for 40 hours per week  
-
-## Professional Memberships  
-+ Modeling Teachers International (2024-present)  
-+ WV Science Teachers Association (2023-present)  
-+ National Science Teaching Association (2023-present)  
-+ American Modeling Teachers Association (2022-present)  
-
-## Awards and Grants
-ACS-Hach High School Chemistry Classroom Grant ($1,500) 2023  
-Appalachian STEM Academy for STEM Teachers participant 2022  
-Drexel University Fellowships Graduation Award _($1,000)_ 2018  
-James C. Gaither Junior Fellows program university nominee 2018  
-Harry S. Truman Scholarship _($30,000+)_ 2017  
-Morris K. and Stewart L. Udall Scholarship _($7,000)_ 2017  
-Society for Science and the Public Advocate Grant _($3,000)_ 2017  
-Drexel University Arcadia Grant _($3,000)_ 2017  
-NOAA Ernest F. Hollings Scholarship _($26,000+)_ 2016  
-Drexel University ExCITe Center Seed Fund Research Grant _($5,000)_ 2016  
-Drexel University Steinbright Corporate Partners Grant _($4,000)_ 2016  
-Intel (now Regeneron) Science Talent Search by Society for Science and the Public National Finalist 2013  
-National Merit Scholar Finalist 2013  
-Eagle Scout 2010
-
-## Other Experience
-__Board Member__  
-Truman Scholars Association, Remote, Dec 2019 - Dec 2021
-+ 2021 - served as Chair of Finance and Governance Committee
-+ 2020 - served as Vice Chair of Programming Committee
-
-__Junior Full Stack Software Developer__  
-NewForce - a program by GenerationWV, Remote, Dec 2020 - Jul 2021  
-Intensive full-time 6-month software development immersive training program focusing on full stack (C#/.NET) development fundamentals and problem solving. The final half of the program executed in a simulated company environment with Scrum methodology.  
-+ Applied object-oriented programming fundamentals through team-based projects that reflect real world business problems
-+ Collaborated remotely on projects using Slack and Zoom
-+ Managed source code version control with Git/ GitHub
-+ Applied JavaScript, HTML, and CSS fundamentals to build a feature-rich social media dashboard
-+ Leveraged native ES6 module bundling to build DRY, reusable components
-+ Designed and built single-page kennel management application with React using Hooks
-+ Designed applications through white boarding dependencies and building ERD’s
-+ Built and interacted with databases using SQL, ADO.NET, and Entity Framework with migrations
-+ Created a C#/.NETCore RESTful API to track resources at an e-commerce company
-+ Built and maintained integration tests for APIs in ASP.NET Core
-+ Developed a HR tracking app and an e-commerce platform using ASP.NET, MVC, and Razor templates in Visual Studio 2019
-
-__Field Director__  
-US House Congressional Campaign, Remote, July 2020 - Nov 2020  
-+ Recruited and trained remote volunteers to make voter contacts during the campaign cycle
-+ Authored prompts for phone and text based volunteer outreach
-+ Organized literature drops to constituents 
-
-__Truman Foundation Scholarship Summer Institute Assistant__ (Chris Avery , PhD.)  
-White House Office of Science and Technology Policy: U.S. Global Change Research Program, Washington, DC, May - Aug 2018  
-Recognized for exemplary contributions towards the publication of the Fourth National Climate Assessment, Volume II - an inter-agency effort coordinated by the White House to identify and explain the risks of climate change to policymakers. 
-+ Collaborated with lead authors on the Fourth National Climate Assessment to select appropriate chapter images, contributing to clear, policy-relevant communication of climate science risks.
-+ Recommended portfolio of publicly available images on time for each of 30+ chapters in Volume II
-
-2018 __Nonprofit Board Prep Program__  
-Young Involved Philadelphia (YIP), Philadelphia, PA
-
-2017 __Rebuilding Native Nations Program__  
-University of Arizona: Native Nations Institute, Tuscon, AZ
 
 ## Research Experience
 __NOAA Hollings Scholarship Research Assistant__ (Chris Amante, PhD.)  
@@ -254,6 +192,67 @@ Seltmann, K., S. Lafia, D. Paul, ... __V. OLeary,__ _et al._ (2018), Georeferenc
 3 __OLeary, V__., M. Sei, G. Rosenberg and J. Mead, Describing multivariate relationships and spatial distributions of snail biodiversity in Jamaica. Presented at National Collegiate Research Conference, Harvard University, Cambridge, MA, January 21-23, 2016.  
 2 __OLeary, V__., D. Duran, Niche Modeling for Management of Invasive Crayfish. Presented at STAR Scholars Summer Showcase, Drexel University, Philadelphia, PA, August 27, 2014.  
 1 __OLeary, V__., Z. Loughman, A Multi-Year Analysis of _Orconectid_ Crayfish Invasion Dynamics in West Virginia Utilizing Laboratory and Field Methodologies. Presented at COAS Research Days, Drexel University, Philadelphia, PA, February 17-18, 2014.
+
+## Other Experience
+__Board Member__  
+Truman Scholars Association, Remote, Dec 2019 - Dec 2021
++ 2021 - served as Chair of Finance and Governance Committee
++ 2020 - served as Vice Chair of Programming Committee
+
+__Junior Full Stack Software Developer__  
+NewForce - a program by GenerationWV, Remote, Dec 2020 - Jul 2021  
+Intensive full-time 6-month software development immersive training program focusing on full stack (C#/.NET) development fundamentals and problem solving. The final half of the program executed in a simulated company environment with Scrum methodology.  
++ Applied object-oriented programming fundamentals through team-based projects that reflect real world business problems
++ Collaborated remotely on projects using Slack and Zoom
++ Managed source code version control with Git/ GitHub
++ Applied JavaScript, HTML, and CSS fundamentals to build a feature-rich social media dashboard
++ Leveraged native ES6 module bundling to build DRY, reusable components
++ Designed and built single-page kennel management application with React using Hooks
++ Designed applications through white boarding dependencies and building ERD’s
++ Built and interacted with databases using SQL, ADO.NET, and Entity Framework with migrations
++ Created a C#/.NETCore RESTful API to track resources at an e-commerce company
++ Built and maintained integration tests for APIs in ASP.NET Core
++ Developed a HR tracking app and an e-commerce platform using ASP.NET, MVC, and Razor templates in Visual Studio 2019
+
+__Field Director__  
+US House Congressional Campaign, Remote, July 2020 - Nov 2020  
++ Recruited and trained remote volunteers to make voter contacts during the campaign cycle
++ Authored prompts for phone and text based volunteer outreach
++ Organized literature drops to constituents 
+
+__Truman Foundation Scholarship Summer Institute Assistant__ (Chris Avery , PhD.)  
+White House Office of Science and Technology Policy: U.S. Global Change Research Program, Washington, DC, May - Aug 2018  
+Recognized for exemplary contributions towards the publication of the Fourth National Climate Assessment, Volume II - an inter-agency effort coordinated by the White House to identify and explain the risks of climate change to policymakers. 
++ Collaborated with lead authors on the Fourth National Climate Assessment to select appropriate chapter images, contributing to clear, policy-relevant communication of climate science risks.
++ Recommended portfolio of publicly available images on time for each of 30+ chapters in Volume II
+
+2018 __Nonprofit Board Prep Program__  
+Young Involved Philadelphia (YIP), Philadelphia, PA
+
+2017 __Rebuilding Native Nations Program__  
+University of Arizona: Native Nations Institute, Tuscon, AZ  
+
+## Professional Memberships  
++ Modeling Teachers International (2024-present)  
++ WV Science Teachers Association (2023-present)  
++ National Science Teaching Association (2023-present)  
++ American Modeling Teachers Association (2022-present)  
+
+## Awards and Grants
+ACS-Hach High School Chemistry Classroom Grant ($1,500) 2023  
+Appalachian STEM Academy for STEM Teachers participant 2022  
+Drexel University Fellowships Graduation Award _($1,000)_ 2018  
+James C. Gaither Junior Fellows program university nominee 2018  
+Harry S. Truman Scholarship _($30,000+)_ 2017  
+Morris K. and Stewart L. Udall Scholarship _($7,000)_ 2017  
+Society for Science and the Public Advocate Grant _($3,000)_ 2017  
+Drexel University Arcadia Grant _($3,000)_ 2017  
+NOAA Ernest F. Hollings Scholarship _($26,000+)_ 2016  
+Drexel University ExCITe Center Seed Fund Research Grant _($5,000)_ 2016  
+Drexel University Steinbright Corporate Partners Grant _($4,000)_ 2016  
+Intel (now Regeneron) Science Talent Search by Society for Science and the Public National Finalist 2013  
+National Merit Scholar Finalist 2013  
+Eagle Scout 2010  
 
 ## Skills
 __Interpersonal Skills__ - Public speaking, Technical presentations, Program/processes documentation, Meeting planning, Formal and informal youth education, Curriculum development, Event planning, Community outreach, Stakeholder engagement, Project management, Technical writing, Remote/Work-at-Home
