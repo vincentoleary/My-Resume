@@ -39,10 +39,7 @@ _Relevant Courses_: Biogeography, Biodiversity, Conservation Biology, Phylogenet
 2015 __Reykjavik University__, Reykjavik, Iceland   
 GREEN Program Study Abroad - 4 credits   
 
-## Other Teacher Professional Development
-2025 __Science and Technology Applied to Radio Signals (STARS) Workshop__   
-Concord University, WV
-
+## Professional Development Experiences  
 2024 __SSP Research Teacher Cohort__   
 Society for Science and the Public (SSP), Remote
 
@@ -70,6 +67,28 @@ Sienna College, Remote
 2022 __Investigative Science Learning Environment (ISLE) Teacher Training__   
 Rutgers University, Remote  
 
+## Professional Memberships  
++ Modeling Teachers International (2024-present)  
++ WV Science Teachers Association (2023-present)  
++ National Science Teaching Association (2023-present)  
++ American Modeling Teachers Association (2022-present)  
+
+## Awards and Grants
+ACS-Hach High School Chemistry Classroom Grant ($1,500) 2023  
+Appalachian STEM Academy for STEM Teachers participant 2022  
+Drexel University Fellowships Graduation Award _($1,000)_ 2018  
+James C. Gaither Junior Fellows program university nominee 2018  
+Harry S. Truman Scholarship _($30,000+)_ 2017  
+Morris K. and Stewart L. Udall Scholarship _($7,000)_ 2017  
+Society for Science and the Public Advocate Grant _($3,000)_ 2017  
+Drexel University Arcadia Grant _($3,000)_ 2017  
+NOAA Ernest F. Hollings Scholarship _($26,000+)_ 2016  
+Drexel University ExCITe Center Seed Fund Research Grant _($5,000)_ 2016  
+Drexel University Steinbright Corporate Partners Grant _($4,000)_ 2016  
+Intel (now Regeneron) Science Talent Search by Society for Science and the Public National Finalist 2013  
+National Merit Scholar Finalist 2013  
+Eagle Scout 2010  
+
 ## Teaching Experience
 __Science Teacher and STEM Program Coordinator__   
 Central Catholic High School, Wheeling, WV, Jan 2020 - Present   
@@ -96,16 +115,20 @@ Founding Varsity Robotics Coach (2022-Present)
 
 __Adjunct Science Instructor__   
 Wheeling University, Wheeling, WV, Aug 2022 - May 2023 
-+ Taught chemistry lab curriculum emphasizing experimental design, accurate data analysis, and safety techniques.  
++ Taught chemistry lab curriculum emphasizing experimental design, accurate data analysis, and safety techniques.
 
 __Substitute Teacher__  
 East Central Ohio Education Service Center, eastern Ohio, Oct 2019 - Mar 2020  
 + Executed lesson plans
 + Recorded the grades
 + Communicated with students and administrators 
-+ Maintained safety of students 
++ Maintained safety of students  
 
-## Supporting Experience
+__Contributing Instructor__  
+Drexel University: College of Arts and Science Philadelphia, PA, 2014 - 2015  
++ Authored curriculum and co-led instruction for a community-based course exploring climate change impacts on cities, empowering 18 students to analyze environmental challenges and solutions.   
+
+## Supporting Teaching Experience
 __AmeriCorps VISTA: Program Development Officer__  
 Carnegie Science Center: Center for STEM Education and Career Development, Pittsburgh, PA, Sep 2018 - Sep 2019  
 First AmeriCorps VISTA hire at Fab Lab maker-space facility within Carnegie Science Center. Supervised flagship youth mentoring program and doubled enrollment to 40 participants year over year.  
@@ -127,10 +150,6 @@ GEAR UP: Gaining Early Awareness and Readiness for Undergraduate Programs, Phila
 __Drexel Community Scholar for After-School Learning__  
 Lindy Center for Civic Engagement, Drexel University, Philadelphia, PA, June 2016 - June 2017  
 + Directed and trained a team of Drexel student volunteers to deliver an after-school STEM activity for 30+ students in 3rd and 4th grade for 5 hours per week  
-
-__Contributing Instructor__  
-Drexel University: College of Arts and Science Philadelphia, PA, 2014 - 2015  
-+ Authored curriculum and co-led instruction for a community-based course exploring climate change impacts on cities, empowering 18 students to analyze environmental challenges and solutions.  
 
 __Zoo Educator__  
 Oglebay Good Zoo Wheeling, WV, 2008 - 2013  
@@ -231,28 +250,6 @@ Young Involved Philadelphia (YIP), Philadelphia, PA
 
 2017 __Rebuilding Native Nations Program__  
 University of Arizona: Native Nations Institute, Tuscon, AZ  
-
-## Professional Memberships  
-+ Modeling Teachers International (2024-present)  
-+ WV Science Teachers Association (2023-present)  
-+ National Science Teaching Association (2023-present)  
-+ American Modeling Teachers Association (2022-present)  
-
-## Awards and Grants
-ACS-Hach High School Chemistry Classroom Grant ($1,500) 2023  
-Appalachian STEM Academy for STEM Teachers participant 2022  
-Drexel University Fellowships Graduation Award _($1,000)_ 2018  
-James C. Gaither Junior Fellows program university nominee 2018  
-Harry S. Truman Scholarship _($30,000+)_ 2017  
-Morris K. and Stewart L. Udall Scholarship _($7,000)_ 2017  
-Society for Science and the Public Advocate Grant _($3,000)_ 2017  
-Drexel University Arcadia Grant _($3,000)_ 2017  
-NOAA Ernest F. Hollings Scholarship _($26,000+)_ 2016  
-Drexel University ExCITe Center Seed Fund Research Grant _($5,000)_ 2016  
-Drexel University Steinbright Corporate Partners Grant _($4,000)_ 2016  
-Intel (now Regeneron) Science Talent Search by Society for Science and the Public National Finalist 2013  
-National Merit Scholar Finalist 2013  
-Eagle Scout 2010  
 
 ## Skills
 __Interpersonal Skills__ - Public speaking, Technical presentations, Program/processes documentation, Meeting planning, Formal and informal youth education, Curriculum development, Event planning, Community outreach, Stakeholder engagement, Project management, Technical writing, Remote/Work-at-Home
