@@ -76,6 +76,7 @@ Rutgers University, Remote
 ## Awards and Grants
 ACS-Hach High School Chemistry Classroom Grant ($1,500) 2023  
 Appalachian STEM Academy for STEM Teachers participant 2022  
+Segal AmeriCorps Education Award _($5,920)_ 2019  
 Drexel University Fellowships Graduation Award _($1,000)_ 2018  
 James C. Gaither Junior Fellows program university nominee 2018  
 Harry S. Truman Scholarship _($30,000+)_ 2017  
